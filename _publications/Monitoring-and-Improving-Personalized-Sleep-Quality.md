@@ -12,6 +12,8 @@ citation: 'Gan, Wenbin, Minh-Son Dao, and Koji Zettsu. "Monitoring and Improving
 
 Recommended citation: Gan, Wenbin, Minh-Son Dao, and Koji Zettsu. "Monitoring and Improving Personalized Sleep Quality from Long-Term Lifelogs." IEEE International Conference on Big Data (IEEE BigData 2022).
 
+
+
 ---
 title: "An Open Case-based Reasoning Framework for Personalized On-board Driving Assistance in Risk Scenarios"
 collection: publications
