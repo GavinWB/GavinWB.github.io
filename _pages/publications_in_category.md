@@ -84,6 +84,6 @@ author_profile: true
 
 ## 📚 Patents
 
-- `Conference` A method and system for automatic solvingal- gebra word problems in elementary mathematics. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541317.X, 2018.
-- `Conference` A method and system for automatic solving plane geometry proof problems. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541369.7, 2018.
+- `Patent` A method and system for automatic solvingal- gebra word problems in elementary mathematics. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541317.X, 2018.
+- `Patent` A method and system for automatic solving plane geometry proof problems. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541369.7, 2018.
 
