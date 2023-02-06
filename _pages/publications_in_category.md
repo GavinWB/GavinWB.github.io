@@ -42,11 +42,29 @@ author_profile: true
 
 - `Journal` [Automatic understanding and formalization of natural language geometry problems using syntax-semantics models](https://www.researchgate.net/profile/Wenbin-Gan/publication/322939354_Automatic_understanding_and_formalization_of_natural_language_geometry_problems_using_syntax-semantics_models/links/5f322d8792851cd302eeda24/Automatic-understanding-and-formalization-of-natural-language-geometry-problems-using-syntax-semantics-models.pdf). **Wenbin Gan** and Xinguo Yu. International Journal of Innovative Computing, Information and Control ICIC International, pages 83–98, 2018.
 
+- `Conference` [Understanding explicit arithmetic word problems and explicit plane geometry problems using syntax-semantics models](https://ieeexplore.ieee.org/abstract/document/8300590). Xinguo Yu, Wenbin Gan, and Mingshu Wang. In 2017 International Conference on Asian Language Processing (IALP), pages 247–251. IEEE, 2017.
+
+- `Conference` [Understanding plane geometry problems by integrating relations extracted from text and diagram](https://link.springer.com/chapter/10.1007/978-3-319-75786-5_30). **Wenbin Gan**, Xinguo Yu, Chao Sun, Bin He, and Mingshu Wang.In Pacific-Rim Symposium on Image and Video Technology (PSIVT), pages 366–381. Springer, 2017.
+
+- `Conference` [Plane geometry diagram retrieval by using hierarchical searching strategy](https://doi.org/10.1145/3007669.3007671). **Wenbin Gan**, Xinguo Yu, Sichao Lai, and Lei Xiang.In Proceedings of the International Conference on Internet Multimedia Computing and Service (ICIMCS), pages 201–206, 2016.
+
+- `Conference` [Automatic reconstruction of plane geometry figures in documents](https://ieeexplore.ieee.org/abstract/document/7446145). Xinguo Yu, **Wenbin Gan**, Danfeng Yang, and Sichao Lai.In 2015 International Conference of Educational Innovation through Technology (EITT), pages 46–50. IEEE, 2015.
+
+- `Conference` [Preliminary research and development on the problem-solving humanoid machine for k-12 education](https://ieeexplore.ieee.org/abstract/document/6982571). Xinguo Yu, Danfeng Yang, Wan Ding, and **Wenbin Gan**.In 2014 International Conference of Educational Innovation through Technology (EITT), pages 99–104. IEEE, 2014.
 
 
-## Others
+## 🧑‍🎨 Intelligent Tutoring Systems
 
-Xian Peng, Qinmei Xu, and Wenbin Gan. Sbtm: A joint sentiment and behaviour topic model for online course discussion forums. Journal of Information Science, page 0165551520917120. SAGE Publications Sage UK: London, England, 2020.
+- `Conference` [IoT-based multimodal analysis for smart education: Current status, challenges and opportunities](https://doi.org/10.1145/3512731.3534208). **Wenbin Gan**, Minh Son Dao, Koji Zettsu, and Yuan Sun. In the Workshop on Intelli- gent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2022), pages 1–9. ACM, 2022.
 
-Xian Peng, Sanya Liu, Zhi Liu, Wenbin Gan, and Jianwen Sun. Mining learners’ topic interests in course reviews based on like-lda model. International Journal of Innovative Computing, Information and Control, volume 12, pages 2099–2110, 2016.
+- `Conference` [AI-Tutor: Generating tailored remedial questions and answers based on cognitive diagnostic assessment](https://ieeexplore.ieee.org/abstract/document/8963236). **Wenbin Gan**, Yuan Sun, Shiwei Ye, Ye Fan, and Yi Sun.In 2019 6Th International Conference on Behavioural and Social Computing (BESC), pages 1–6. IEEE, 2019.
+
+- `Journal` [SBTM: A joint sentiment and behaviour topic model for online course discussion forums](https://doi.org/10.1177/0165551520917120). Xian Peng, Qinmei Xu, and **Wenbin Gan**. Journal of Information Science, page 0165551520917120. SAGE Publications Sage UK: London, England, 2020.
+
+- `Journal` [Mining learners’ topic interests in course reviews based on like-LDA model](https://www.researchgate.net/profile/Zhi-Liu-31/publication/310830465_Mining_Learners'_Topic_Interests_in_Course_Reviews_based_on_Like-LDA_Model/links/5838ea8a08ae3d91723de53e/Mining-Learners-Topic-Interests-in-Course-Reviews-based-on-Like-LDA-Model.pdf). Xian Peng, Sanya Liu, Zhi Liu, **Wenbin Gan**, and Jianwen Sun. International Journal of Innovative Computing, Information and Control, volume 12, pages 2099–2110, 2016.
+
+## 🧑‍🎨 Multimodal Big Data Analysis
+- `Conference` [An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios](https://ieeexplore.ieee.org/document/10020284). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–8, 2022.
+
+- `Conference` [Monitoring and improving personalized sleep quality from long-term lifelogs](https://ieeexplore.ieee.org/document/10020829). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–9, 2022.
 
