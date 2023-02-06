@@ -1,5 +1,5 @@
 ---
-title: "Explainable Learner Knowledge Diagnosis by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems"
+title: "Explainable Learner' Knowledge Diagnosis by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems"
 collection: publications
 permalink: /publication/gan2022monitoring
 excerpt: 
