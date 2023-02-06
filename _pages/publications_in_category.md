@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications_in_category/
+author_profile: true
+---
+
+
 # 📝 Publications 
 ## 🎙 Speech Synthesis
 
