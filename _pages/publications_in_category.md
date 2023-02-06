@@ -7,6 +7,13 @@ author_profile: true
 
 # 📝 Publications 
 
+## 🧑‍🎨 My Dissercation
+
+- `Thesis` [Dynamic Learner’s Knowledge Assessment by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems](https://ir.soken.ac.jp/?action=repository_uri&item_id=6534&file_id=19&file_no=1&nc_session=u3kc28jr83se372rkempkv14s1). **Wenbin Gan**, PhD thesis, National Institute of Informatics, Japan, 2022.
+
+- `Thesis` 2018 Gan, Wenbin. [Research on Automatically Solving Plane Geometry Problems](http://150.138.141.12/Kcms/detail/detail.aspx?filename=1018234262.nh&dbcode=CDFD&dbname=CDFD2020). **Wenbin Gan**, PhD thesis, Central China Normal University, 2018.
+
+
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJIS</div><img src='../images/foo-bar-identity-th.jpg' alt="sym" width="30%"></div></div><div class='paper-box-text' markdown="1">
@@ -74,4 +81,9 @@ author_profile: true
 - `Conference` [An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios](https://ieeexplore.ieee.org/document/10020284). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–8, 2022.
 
 - `Conference` [Monitoring and improving personalized sleep quality from long-term lifelogs](https://ieeexplore.ieee.org/document/10020829). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–9, 2022.
+
+## 🧑‍🎨 Patents
+
+- `Conference` A method and system for automatic solvingal- gebra word problems in elementary mathematics. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541317.X, 2018.
+- `Conference` A method and system for automatic solving plane geometry proof problems. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541369.7, 2018.
 
