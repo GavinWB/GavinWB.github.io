@@ -25,12 +25,19 @@ author_profile: true
 ## 🧑‍🎨 Learner Knowledge Assessment
 
 - `Journal` [Knowledge structure enhanced graph representation learning model for attentive knowledge tracing]( https://doi.org/10.1002/int.22763). **Wenbin Gan**, Yuan Sun, and Yi Sun. International Journal of Intelligent Systems, volume 37, pages 2012–2045. Wiley, 2022.
+
 - `Journal` [Knowledge interaction enhanced sequential modeling for interpretable learner knowledge diagnosis in intelligent education systems](https://doi.org/10.1016/j.neucom.2022.02.080). **Wenbin Gan**, Yuan Sun, and Yi Sun. Neurocomputing. Elsevier, 2022.
+
 - `Journal` [Modeling learner’s dynamic knowledge construction procedure and cognitive item diﬀiculty for knowledge tracing](https://doi.org/10.1007/s10489-020-01756-7). **Wenbin Gan**, Yuan Sun, Xian Peng, and Yi Sun. Applied Intelligence, volume 50, pages 3894–3912. Springer, 2020.
+
 - `Conference` [Prerequisite-driven q-matrix refine- ment for learner knowledge assessment: A case study in online learning context](https://arxiv.org/abs/2208.12642). **Wenbin Gan** and Yuan Sun. In Proceedings of the 30th International Conference on Computers in Education (ICCE 2022), pages 1–8, 2022.
+
 - `Conference` [Explainable learners’ knowledge diagnosis by incorporating learner and domain modeling in intelligent tutoring systems](https://scholar.google.com/scholar?oi=bibs&cluster=6679154435795845621&btnI=1&hl=zh-CN). **Wenbin Gan** and Yuan Sun. In 20th Annual Conference of Japan Association for Research on Testing, pages 1–4, 2022.
+
 - `Conference` [Improving knowledge tracing through embedding based on metapath](https://scholar.google.com/scholar?oi=bibs&cluster=12077735031460639424&btnI=1&hl=zh-CN). Chong Jiang, **Wenbin Gan**, Guiping Su, Yuan Sun, and Yi Sun. In the 29th International Conference on Computers in Education (ICCE), 2021. IEEE, 2021.
+
 - `Conference` [Knowledge interaction enhanced knowledge tracing for learner performance prediction](https://ieeexplore.ieee.org/document/9348285). **Wenbin Gan**, Yuan Sun, and Yi Sun. In 2020 7th International Conference on Behavioural and Social Computing (BESC), pages 1–6. IEEE, 2020.
+
 - `Conference`  [Field-aware knowledge tracing machine by modelling students’ dynamic learning procedure and item diﬀiculty](https://ieeexplore.ieee.org/abstract/document/8955517). **Wenbin Gan**, Yuan Sun, Shiwei Ye, Ye Fan, and Yi Sun. In 2019 International conference on data mining workshops (ICDMW). IEEE, 2019.
 
 ## 🧑‍🎨 Automatic Question Solving
