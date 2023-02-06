@@ -1,16 +1,15 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications_in_category/
 author_profile: true
 ---
 
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
+## 🎙 Learner Knowledge Assessment
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Intelligent Systems</div><img src='images/bio-photo.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Intelligent Systems</div><img src='./images/bio-photo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge structure enhanced graph representation learning model for attentive knowledge tracing](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22763) 
