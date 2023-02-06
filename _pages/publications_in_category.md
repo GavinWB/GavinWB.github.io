@@ -7,7 +7,7 @@ author_profile: true
 
 # 📝 Publications 
 
-## 🧑‍🎨 My Dissercation
+## 📚 My Dissercation
 
 - `Thesis` [Dynamic Learner’s Knowledge Assessment by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems](https://ir.soken.ac.jp/?action=repository_uri&item_id=6534&file_id=19&file_no=1&nc_session=u3kc28jr83se372rkempkv14s1). **Wenbin Gan**, PhD thesis, National Institute of Informatics, Japan, 2022.
 
@@ -82,7 +82,7 @@ author_profile: true
 
 - `Conference` [Monitoring and improving personalized sleep quality from long-term lifelogs](https://ieeexplore.ieee.org/document/10020829). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–9, 2022.
 
-## 🧑‍🎨 Patents
+## 📚 Patents
 
 - `Conference` A method and system for automatic solvingal- gebra word problems in elementary mathematics. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541317.X, 2018.
 - `Conference` A method and system for automatic solving plane geometry proof problems. Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. China patent. No.201710541369.7, 2018.
