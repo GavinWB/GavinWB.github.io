@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a researcher at Big Data Integration Research Center, Universal Communication Research Institute, National Institute of Information and Communications Technology [(NICT)](https://bdirc.nict.go.jp/en/), Tokyo, Japan.
+
+I received a Ph.D. in Informatics from National Institute of Informatics [(NII)](https://www.nii.ac.jp/en/), The Graduate University for Advanced Studies (SOKENDAI) and a second Ph.D. in Educational Technology from Central China Normal University. Before joining NICT, I was an JSPS research fellow at National Institute of Informatics (NII) and a postdoctoral fellow at Central China Normal University Wollongong Joint Institute.
+
+My main work mostly focuses on researching and developing data-driven models for intelligent human-computer interaction and intelligent tutoring systems. I have done researches span topics in Intelligent Tutoring System and AI Enhanced Learning, including Automated Question Solver (especially in plane geometry), Question Understanding, Image Understanding, Language & Vision, Educational robots, Educational Human-computer Interaction, etc. I served as a JSPS project Principal Investigator for data-driven personalization of student online learning support [(see project page)](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/). My current research interests involve developing data mining and deep learning algorithms to discover insights of learners and learning contents in support of personalized cyber-physical learning, using techniques incorporating IoT multi-modal learning analytics, deep learning, virtual reality as well as the integrated research with educational robots.
+
 
 A data-driven personal website
 ======
