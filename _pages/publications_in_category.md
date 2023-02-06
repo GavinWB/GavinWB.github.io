@@ -77,7 +77,7 @@ author_profile: true
 
 - `Journal` [Mining learners’ topic interests in course reviews based on like-LDA model](https://www.researchgate.net/profile/Zhi-Liu-31/publication/310830465_Mining_Learners'_Topic_Interests_in_Course_Reviews_based_on_Like-LDA_Model/links/5838ea8a08ae3d91723de53e/Mining-Learners-Topic-Interests-in-Course-Reviews-based-on-Like-LDA-Model.pdf). Xian Peng, Sanya Liu, Zhi Liu, **Wenbin Gan**, and Jianwen Sun. International Journal of Innovative Computing, Information and Control, volume 12, pages 2099–2110, 2016.
 
-## 🧑‍🎨 Multimodal Big Data Analysis
+## 🧑‍🎨 Multimodal Big Data Analysis for Human Wellness
 - `Conference` [An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios](https://ieeexplore.ieee.org/document/10020284). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–8, 2022.
 
 - `Conference` [Monitoring and improving personalized sleep quality from long-term lifelogs](https://ieeexplore.ieee.org/document/10020829). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–9, 2022.
