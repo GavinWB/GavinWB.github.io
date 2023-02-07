@@ -8,6 +8,10 @@ main:
     
   - title: "Service"
     url: /services/ 
+ 
+ - title: "Award"
+    url: /award_honor/
+    
 
   - title: "Teaching"
     url: /teaching/    
