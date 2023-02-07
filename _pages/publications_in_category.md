@@ -2,9 +2,6 @@
 title: "📝 Publications"
 permalink: /publications_in_category/
 author_profile: true
-redirect_from: 
-  - /publications_in_category/
-  - /publications_in_category.html
 ---
 
 
