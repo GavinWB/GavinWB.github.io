@@ -29,7 +29,7 @@ author_profile: true
 </div>
 </div> -->
 
-## 🧑‍🎨 Learner Knowledge Assessment
+## 👨🏻‍🎓 Learner Knowledge Assessment
 
 - `Journal` [Knowledge structure enhanced graph representation learning model for attentive knowledge tracing]( https://doi.org/10.1002/int.22763). **Wenbin Gan**, Yuan Sun, and Yi Sun. International Journal of Intelligent Systems, volume 37, pages 2012–2045. Wiley, 2022.
 
@@ -47,7 +47,7 @@ author_profile: true
 
 - `Conference`  [Field-aware knowledge tracing machine by modelling students’ dynamic learning procedure and item diﬀiculty](https://ieeexplore.ieee.org/abstract/document/8955517). **Wenbin Gan**, Yuan Sun, Shiwei Ye, Ye Fan, and Yi Sun. In 2019 International conference on data mining workshops (ICDMW). IEEE, 2019.
 
-## 🧑‍🎨 Automatic Question Solving
+## 🤖💯 Automatic Question Solving
 - `Journal` [A framework for solving explicit arithmetic word problems and proving plane geometry theorems](https://doi.org/10.1142/S0218001419400056). Xinguo Yu, Mingshu Wang, **Wenbin Gan**, Bin He, and Nan Ye. International Journal of Pattern Recognition and Artificial Intelligence, volume 33, page 1940005. World Scientific, 2019.
 
 - `Journal` [Automatically proving plane geometry theorems stated by text and diagram](https://doi.org/10.1142/S0218001419400032). **Wenbin Gan**, Xinguo Yu, Ting Zhang, and Mingshu Wang.International Journal of Pattern Recognition and Artificial Intelligence, volume 33, page 1940003. World Scientific, 2019.
@@ -67,7 +67,7 @@ author_profile: true
 - `Conference` [Preliminary research and development on the problem-solving humanoid machine for k-12 education](https://ieeexplore.ieee.org/abstract/document/6982571). Xinguo Yu, Danfeng Yang, Wan Ding, and **Wenbin Gan**.In 2014 International Conference of Educational Innovation through Technology (EITT), pages 99–104. IEEE, 2014.
 
 
-## 🧑‍🎨 Intelligent Tutoring Systems
+## 🧑🏻‍💻 Intelligent Tutoring Systems
 
 - `Conference` [IoT-based multimodal analysis for smart education: Current status, challenges and opportunities](https://doi.org/10.1145/3512731.3534208). **Wenbin Gan**, Minh Son Dao, Koji Zettsu, and Yuan Sun. In the Workshop on Intelli- gent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2022), pages 1–9. ACM, 2022.
 
@@ -77,7 +77,7 @@ author_profile: true
 
 - `Journal` [Mining learners’ topic interests in course reviews based on like-LDA model](https://www.researchgate.net/profile/Zhi-Liu-31/publication/310830465_Mining_Learners'_Topic_Interests_in_Course_Reviews_based_on_Like-LDA_Model/links/5838ea8a08ae3d91723de53e/Mining-Learners-Topic-Interests-in-Course-Reviews-based-on-Like-LDA-Model.pdf). Xian Peng, Sanya Liu, Zhi Liu, **Wenbin Gan**, and Jianwen Sun. International Journal of Innovative Computing, Information and Control, volume 12, pages 2099–2110, 2016.
 
-## 🧑‍🎨 Multimodal Big Data Analysis for Human Wellness
+## 🎯 Multimodal Big Data Analysis for Human Wellness
 - `Conference` [An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios](https://ieeexplore.ieee.org/document/10020284). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–8, 2022.
 
 - `Conference` [Monitoring and improving personalized sleep quality from long-term lifelogs](https://ieeexplore.ieee.org/document/10020829). **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–9, 2022.
