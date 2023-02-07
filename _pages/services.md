@@ -25,7 +25,7 @@ author_profile: true
 - Organization Committee Member of International Conference on Intelligent Education and Intelligent Research (IEIR 2022), Wuhan, China.
 - Organization Committee Member of the 17th International Conference on Green, Pervasive, and Cloud Computing (GPC 2022), Chengdu, China.
 - Track Chair of “Track on Intelligent Educational Technologies and Systems” in IEEE Inter- national Conference on Engineering, Technology, and Education (TALE),2021, Wuhan, China.
-- Session Chair of session “Pattern Recognition and Applications” in 8th Pacific-Rim Sympo- sium on Image and Video Technology (PSIVT 2017), Wuhan, China.
+- Session Chair of session “Pattern Recognition and Applications” in 8th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2017), Wuhan, China.
 - Organizer of The workshop of Educational Cloud and Image and Video Enriched Cloud Services (ECIVECS) in 8th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2017), Wuhan, China.
 
 ##  Journal Reviewer
