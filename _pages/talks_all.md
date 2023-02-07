@@ -12,24 +12,24 @@ author_profile: true
 
 - “Prerequisite-driven q-matrix refinement for learner knowledge assessment: A case study in online learning context.”, The 30th International Conference on Computers in Education (ICCE 2022), Online.
 
-- “IoT-based multimodal analysis for smart education: Current status, challenges and opportunities.”, The 2022 ACM International Conference on Multimedia Retrieval (ICMR), Online.
+- “IoT-based multimodal analysis for smart education: Current status, challenges and opportunities.”, The ACM International Conference on Multimedia Retrieval (ICMR), Online， 2022.
 
-- “Big data learning analytics for smart education”, Invited talk at Big Data Integration Research Center, National Institute of Information and communication Technology, Japan.
+- “Big data learning analytics for smart education”, Invited talk at Big Data Integration Research Center, National Institute of Information and communication Technology, 2021，Japan.
 
-- “Improving knowledge tracing through embedding based on metapath”, The 29th Inter- national Conference on Computers in Education (ICCE), Online.
+- “Improving knowledge tracing through embedding based on metapath”, The 29th International Conference on Computers in Education (ICCE), Online，2021.
 
-- “Knowledge interaction enhanced knowledge tracing for learner performance prediction”, The 7th International Conference on Behavioural and Social Computing (BESC), Bournemouth United Kingdom.
+- “Knowledge interaction enhanced knowledge tracing for learner performance prediction”, The 7th International Conference on Behavioural and Social Computing (BESC), Bournemouth United Kingdom, 2020.
 
-- “Field-aware Knowledge Tracing Machine by Modelling Students’ Dynamic Learning Pro- cedure and Item Diﬀiculty”, The 19th IEEE International Conference on Data Mining(IEEE ICDM), Beijing, China.
+- “Field-aware Knowledge Tracing Machine by Modelling Students’ Dynamic Learning Pro- cedure and Item Diﬀiculty”, The 19th IEEE International Conference on Data Mining(IEEE ICDM), Beijing, China, 2019.
 
-- “AI-Tutor: Generating Tailored Remedial Questions and Answers Based on Cognitive Di- agnostic Assessment”, The 6th International Conference on Behavioural and Social Computing (BESC), Beijing, China.
+- “AI-Tutor: Generating Tailored Remedial Questions and Answers Based on Cognitive Diagnostic Assessment”, The 6th International Conference on Behavioural and Social Computing (BESC), Beijing, China, 2019.
 
-- “Automatically Solving Plane Geometry Problems”, Invited talk at National Institute of Informatics, Japan.
+- “Automatically Solving Plane Geometry Problems”, Invited talk at National Institute of Informatics, Japan, 2019.
 
-- “Understanding Explicit Arithmetic Word Problems and Explicit Plane Geometry Prob- lems Using Syntax-Semantics Models”, The 21st International Conference on Asian Language Processing (IALP), Singapore.
+- “Understanding Explicit Arithmetic Word Problems and Explicit Plane Geometry Problems Using Syntax-Semantics Models”, The 21st International Conference on Asian Language Processing (IALP), Singapore, 2017.
 
-- “Understanding plane geometry problems by integrating relations extracted from text and diagram”, The 8th Pacific-Rim Symposium on Image and Video Technology (PSIVT), Wuhan, China.
+- “Understanding plane geometry problems by integrating relations extracted from text and diagram”, The 8th Pacific-Rim Symposium on Image and Video Technology (PSIVT), Wuhan, China, 2017.
 
-- “Plane Geometry Diagram Retrieval By Using Hierarchical Searching Strategy”, The 8th International Conference on Internet Multimedia Computing and Service (ICIMCS), Xi’an, China.
+- “Plane Geometry Diagram Retrieval By Using Hierarchical Searching Strategy”, The 8th International Conference on Internet Multimedia Computing and Service (ICIMCS), Xi’an, China, 2016.
 
-- “Automatic reconstruction of plane geometry figures in documents”, The 4th International Conference of Educational Innovation through Technology (EITT), Wuhan, China.
+- “Automatic reconstruction of plane geometry figures in documents”, The 4th International Conference of Educational Innovation through Technology (EITT), Wuhan, China, 2015.
