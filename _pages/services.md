@@ -19,7 +19,7 @@ author_profile: true
 - PSIVT 2017: Pacific-Rim Symposium on Image and Video Technology,
 - EITT 2015: International Conference of Educational Innovation through Technology
 
-##  Conference/Workshop/Seeeion organizer
+##  Conference/Workshop/Seeeion Organizer
 
 - Session Chair of session “Complex Big Data Applications” in IEEE BigData 2022, Osaka, Japan.
 - Organization Committee Member of International Conference on Intelligent Education and Intelligent Research (IEIR 2022), Wuhan, China.
