@@ -19,7 +19,7 @@ Experiences
 
 - National Institute of Information and Communications Technology (NICT), Tokyo, Japan 
   <br/>
-  Researcher, at Big Data Integration Research Center,
+  **Researcher**, at Big Data Integration Research Center,
   <br/>
   Main Work: Smart data analytics to enable adaptive behavior support for human wellness.
   <br/>
@@ -28,7 +28,7 @@ Experiences
   
 - National Institute of Informatics (NII), Tokyo, Japan
   <br/>
-  JSPS Research Fellowship for Young Scientists (DC2),  
+  **JSPS Research Fellowship for Young Scientists (DC2)**,  
   <br/>
   Main work: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cog- nitive diagnostic assessment.
   <br/>
@@ -36,7 +36,7 @@ Experiences
 
 - National Institute of Informatics, Tokyo, Japan
   <br/>
-  Research Assistant,
+  **Research Assistant**,
   <br/>
   Main work: Developing data-driven deep architecture for inferring learner knowledge proficiency: modeling learner’s dynamic knowledge construction procedure and cognitive item diﬀiculty for knowledge tracing.
   <br/>
@@ -45,7 +45,7 @@ Experiences
 
 - Central China Normal University Wollongong Joint Institute (China-Austrain), Wuhan, China
   <br/>
-  Project Researcher,
+  **Project Researcher**,
   <br/>
   Main work: Developing machine learning models to automatically understand and formalization of plane geometry proving problems in natural language.
   <br/>
@@ -54,7 +54,7 @@ Experiences
   
 - National Engineering Research Center for E-Learning (NERCEL), Central China Normal University, Wuhan, China
   <br/>
-  Research Assistant,
+  **Research Assistant**,
   <br/>
   Main work: Proposed various approaches for automatically solving plane geometry questions stated by text and diagram.
   <br/>
