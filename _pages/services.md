@@ -5,7 +5,8 @@ excerpt: "Professional Services"
 author_profile: true
 ---
 
-# Conference Program Committee
+## Conference Program Committee
+---
 
 - AIED 2023: International Conference on Artificial Intelligence in Education,
 - MMM 2023: International Conference on MultiMedia Modeling,
@@ -15,7 +16,8 @@ author_profile: true
 - IEEE TALE 2021: IEEE Conference on Teaching, Assessment, and Learning for Engineering, PSIVT 2017: Pacific-Rim Symposium on Image and Video Technology,
 - EITT 2015: International Conference of Educational Innovation through Technology
 
-# Conference/Workshop/Seeeion organizer
+##  Conference/Workshop/Seeeion organizer
+---
 - Session Chair of session “Complex Big Data Applications” in IEEE BigData 2022, Osaka, Japan.
 - Organization Committee Member of International Conference on Intelligent Education and Intelligent Research (IEIR 2022), Wuhan, China.
 - Organization Committee Member of the 17th International Conference on Green, Pervasive, and Cloud Computing (GPC 2022), Chengdu, China.
@@ -23,7 +25,8 @@ author_profile: true
 - Session Chair of session “Pattern Recognition and Applications” in 8th Pacific-Rim Sympo- sium on Image and Video Technology (PSIVT 2017), Wuhan, China.
 - Organizer of The workshop of Educational Cloud and Image and Video Enriched Cloud Services (ECIVECS) in 8th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2017), Wuhan, China.
 
-# Journal Reviewer
+##  Journal Reviewer
+---
 - New Generation Computing,
 - User Modeling and User-Adapted Interaction,
 - Computer Modeling in Engineering & Sciences,
@@ -34,6 +37,7 @@ author_profile: true
 - Open Educational Studies,
 - IEEE Access
 
-Review Editor
+## Review Editor
+---
 - Editorial Board of Educational Psychology for Frontiers in Psychology and Frontiers in Education.
 
