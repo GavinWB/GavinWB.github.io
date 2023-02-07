@@ -56,7 +56,7 @@ author_profile: true
 
 - `Journal` [Automatic understanding and formalization of natural language geometry problems using syntax-semantics models](https://www.researchgate.net/profile/Wenbin-Gan/publication/322939354_Automatic_understanding_and_formalization_of_natural_language_geometry_problems_using_syntax-semantics_models/links/5f322d8792851cd302eeda24/Automatic-understanding-and-formalization-of-natural-language-geometry-problems-using-syntax-semantics-models.pdf). **Wenbin Gan** and Xinguo Yu. International Journal of Innovative Computing, Information and Control ICIC International, pages 83–98, 2018.
 
-- `Conference` [Understanding explicit arithmetic word problems and explicit plane geometry problems using syntax-semantics models](https://ieeexplore.ieee.org/abstract/document/8300590). Xinguo Yu, Wenbin Gan, and Mingshu Wang. In 2017 International Conference on Asian Language Processing (IALP), pages 247–251. IEEE, 2017.
+- `Conference` [Understanding explicit arithmetic word problems and explicit plane geometry problems using syntax-semantics models](https://ieeexplore.ieee.org/abstract/document/8300590). Xinguo Yu, **Wenbin Gan**, and Mingshu Wang. In 2017 International Conference on Asian Language Processing (IALP), pages 247–251. IEEE, 2017.
 
 - `Conference` [Understanding plane geometry problems by integrating relations extracted from text and diagram](https://link.springer.com/chapter/10.1007/978-3-319-75786-5_30). **Wenbin Gan**, Xinguo Yu, Chao Sun, Bin He, and Mingshu Wang.In Pacific-Rim Symposium on Image and Video Technology (PSIVT), pages 366–381. Springer, 2017.
 
