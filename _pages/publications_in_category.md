@@ -1,4 +1,5 @@
 ---
+title: 📝 Publications
 permalink: /publications_in_category/
 author_profile: true
 ---
