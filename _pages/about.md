@@ -20,9 +20,10 @@ Experiences
 - National Institute of Information and Communications Technology (NICT), Tokyo, Japan 
   <br/>
   Researcher, at Big Data Integration Research Center,
+  <br/>
   Main Work: Smart data analytics to enable adaptive behavior support for human wellness.
   <br/>
-  2019.11 – Present 
+  2021.11 – Present 
   
   
 - National Institute of Informatics (NII), Tokyo, Japan
@@ -30,7 +31,7 @@ Experiences
   JSPS Research Fellowship for Young Scientists (DC2),  
   <br/>
   Main work: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cog- nitive diagnostic assessment.
-   <br/>
+  <br/>
   2020.04 – 2021.10
 
 - National Institute of Informatics, Tokyo, Japan
