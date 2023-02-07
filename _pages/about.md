@@ -27,7 +27,8 @@ Experiences
   
 - National Institute of Informatics (NII), Tokyo, Japan
   <br/>
-  JSPS Research Fellowship for Young Scientists (DC2), 
+  JSPS Research Fellowship for Young Scientists (DC2),  
+  <br/>
   Main work: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cog- nitive diagnostic assessment.
    <br/>
   2020.04 – 2021.10
@@ -35,6 +36,7 @@ Experiences
 - National Institute of Informatics, Tokyo, Japan
   <br/>
   Research Assistant,
+  <br/>
   Main work: Developing data-driven deep architecture for inferring learner knowledge proficiency: modeling learner’s dynamic knowledge construction procedure and cognitive item diﬀiculty for knowledge tracing.
   <br/>
   2019.04 – 2020.03 
@@ -43,13 +45,16 @@ Experiences
 - Central China Normal University Wollongong Joint Institute (China-Austrain), Wuhan, China
   <br/>
   Project Researcher,
+  <br/>
   Main work: Developing machine learning models to automatically understand and formalization of plane geometry proving problems in natural language.
   <br/>
   2018.07 – 2019.03
   
- - National Engineering Research Center for E-Learning (NERCEL), Central China Normal University, Wuhan, China
+  
+- National Engineering Research Center for E-Learning (NERCEL), Central China Normal University, Wuhan, China
   <br/>
   Research Assistant,
+  <br/>
   Main work: Proposed various approaches for automatically solving plane geometry questions stated by text and diagram.
   <br/>
   2014.07 – 2018.06
