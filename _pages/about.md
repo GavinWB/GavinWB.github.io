@@ -29,8 +29,7 @@ Experiences
 - National Institute of Informatics (NII), Tokyo, Japan
   <br/>
   **JSPS Research Fellowship for Young Scientists (DC2)**,  
-  <br/>
-  Main work: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cog- nitive diagnostic assessment.
+  Main work: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cognitive diagnostic assessment.
   <br/>
   2020.04 – 2021.10
 
