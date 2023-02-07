@@ -4,7 +4,7 @@ permalink: /talks_all/
 author_profile: true
 redirect_from: 
   - /talks_all/
-  - /talk.html
+  - /talks_all.html
 ---
 
 
