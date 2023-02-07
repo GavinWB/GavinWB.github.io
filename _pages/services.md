@@ -27,6 +27,7 @@ author_profile: true
 
 ##  Journal Reviewer
 
+- IEEE Transactions on Consumer Electronics
 - New Generation Computing,
 - User Modeling and User-Adapted Interaction,
 - Computer Modeling in Engineering & Sciences,
