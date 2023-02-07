@@ -2,9 +2,6 @@
 title: "Talks and Presentation"
 permalink: /talks_all/
 author_profile: true
-redirect_from: 
-  - /talks_all/
-  - /talks_all.html
 ---
 
 
