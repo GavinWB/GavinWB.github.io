@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conference Program Committee
----
+
 
 - AIED 2023: International Conference on Artificial Intelligence in Education,
 - MMM 2023: International Conference on MultiMedia Modeling,
@@ -17,7 +17,7 @@ author_profile: true
 - EITT 2015: International Conference of Educational Innovation through Technology
 
 ##  Conference/Workshop/Seeeion organizer
----
+
 - Session Chair of session “Complex Big Data Applications” in IEEE BigData 2022, Osaka, Japan.
 - Organization Committee Member of International Conference on Intelligent Education and Intelligent Research (IEIR 2022), Wuhan, China.
 - Organization Committee Member of the 17th International Conference on Green, Pervasive, and Cloud Computing (GPC 2022), Chengdu, China.
@@ -26,7 +26,7 @@ author_profile: true
 - Organizer of The workshop of Educational Cloud and Image and Video Enriched Cloud Services (ECIVECS) in 8th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2017), Wuhan, China.
 
 ##  Journal Reviewer
----
+
 - New Generation Computing,
 - User Modeling and User-Adapted Interaction,
 - Computer Modeling in Engineering & Sciences,
@@ -38,6 +38,6 @@ author_profile: true
 - IEEE Access
 
 ## Review Editor
----
+
 - Editorial Board of Educational Psychology for Frontiers in Psychology and Frontiers in Education.
 
