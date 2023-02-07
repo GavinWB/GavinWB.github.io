@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 
-# 📝 Talks and Presentation 
+# Talks and Presentation 
 
 - “An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios”, The IEEE International Conference on Big Data (IEEE BigData 2022), Osaka, Japan.
 
