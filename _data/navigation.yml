@@ -10,9 +10,8 @@ main:
     url: /services/ 
  
  - title: "Award"
-    url: /award_honor/
+    url: /award-honor/
     
-
   - title: "Teaching"
     url: /teaching/    
     
