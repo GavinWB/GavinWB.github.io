@@ -11,9 +11,12 @@ author_profile: true
 - AIED 2023: International Conference on Artificial Intelligence in Education,
 - MMM 2023: International Conference on MultiMedia Modeling,
 - IEEE Big Data 2022: IEEE International Conference on Big Data,
-- IEEE KSE 2022: IEEE International Conference on Knowledge and Systems Engineering, BDA4HM 2022: International Workshop on Big Data Analytics for Health and Medicine, IEIR 2022: International Conference on Intelligent Education and Intelligent Research,
+- IEEE KSE 2022: IEEE International Conference on Knowledge and Systems Engineering, 
+- BDA4HM 2022: International Workshop on Big Data Analytics for Health and Medicine, 
+- IEIR 2022: International Conference on Intelligent Education and Intelligent Research,
 - GPC 2022: 17th International Conference on Green, Pervasive, and Cloud Computing,
-- IEEE TALE 2021: IEEE Conference on Teaching, Assessment, and Learning for Engineering, PSIVT 2017: Pacific-Rim Symposium on Image and Video Technology,
+- IEEE TALE 2021: IEEE Conference on Teaching, Assessment, and Learning for Engineering, 
+- PSIVT 2017: Pacific-Rim Symposium on Image and Video Technology,
 - EITT 2015: International Conference of Educational Innovation through Technology
 
 ##  Conference/Workshop/Seeeion organizer
@@ -34,7 +37,8 @@ author_profile: true
 - Neurocomputing,
 - Knowledge and Information Systems,
 - International Journal of Intelligent Systems,
-- International Journal of Pattern Recognition and Artificial Intelligence, International Journal of Digital Crime and Forensics,
+- International Journal of Pattern Recognition and Artificial Intelligence, 
+- International Journal of Digital Crime and Forensics,
 - Open Educational Studies,
 - IEEE Access
 
