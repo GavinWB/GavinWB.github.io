@@ -37,9 +37,10 @@ Experiences
   Research Assistant,
   Main work: Developing data-driven deep architecture for inferring learner knowledge proficiency: modeling learner’s dynamic knowledge construction procedure and cognitive item diﬀiculty for knowledge tracing.
   <br/>
-  2019.04 – 2020.03
-  
- - Central China Normal University Wollongong Joint Institute (China-Austrain), Wuhan, China
+  2019.04 – 2020.03 
+
+
+- Central China Normal University Wollongong Joint Institute (China-Austrain), Wuhan, China
   <br/>
   Project Researcher,
   Main work: Developing machine learning models to automatically understand and formalization of plane geometry proving problems in natural language.
