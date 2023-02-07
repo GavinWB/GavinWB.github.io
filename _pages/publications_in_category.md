@@ -4,7 +4,7 @@ permalink: /publications_in_category/
 author_profile: true
 ---
 
-[Publication By Year](/publication_by_year/)
+[Publication By Year](./publication_by_year/)
 
 
 ## 📚 My Dissercation
