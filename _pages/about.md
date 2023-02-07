@@ -32,6 +32,9 @@ Experiences
   Main work: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cognitive diagnostic assessment.
   <br/>
   2020.04 – 2021.10
+  <br/>
+  [Grant-in-Aid for JSPS Fellows Project ID: 20J15339](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/)
+  
 
 - National Institute of Informatics, Tokyo, Japan
   <br/>
