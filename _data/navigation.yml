@@ -9,7 +9,7 @@ main:
   - title: "Service"
     url: /services/ 
  
- - title: "Award"
+  - title: "Award"
     url: /award-honor/
     
   - title: "Teaching"
