@@ -10,11 +10,11 @@ author_profile: true
 ## 📚 My Dissercation
 
 - `Thesis` [Dynamic Learner’s Knowledge Assessment by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems](https://ir.soken.ac.jp/?action=repository_uri&item_id=6534&file_id=19&file_no=1&nc_session=u3kc28jr83se372rkempkv14s1). 
-<br/>
-**Wenbin Gan**, PhD thesis, National Institute of Informatics, Japan, 2022.
+  <br/>
+  **Wenbin Gan**, PhD thesis, National Institute of Informatics, Japan, 2022.
 
-- `Thesis` [Research on Automatically Solving Plane Geometry Problems](http://150.138.141.12/Kcms/detail/detail.aspx?filename=1018234262.nh&dbcode=CDFD&dbname=CDFD2020). <br/>
-**Wenbin Gan**, PhD thesis, Central China Normal University, 2018.
+- `Thesis` [Research on Automatically Solving Plane Geometry Problems](http://150.138.141.12/Kcms/detail/detail.aspx?filename=1018234262.nh&dbcode=CDFD&dbname=CDFD2020).   <br/>
+  **Wenbin Gan**, PhD thesis, Central China Normal University, 2018.
 
 
 
