@@ -1,7 +1,7 @@
 ---
-title: "Automatic Question Solving"
+title: "Intelligent Tutoring Systems"
 excerpt: "Short description of research item number 2 <br/><img src='/images/500x300.png'>"
 collection: researches
 ---
 
-This is Automatic Question Solving. 
+This is Intelligent Tutoring Systems. 

@@ -3,8 +3,10 @@ main:
   - title: "Publications"
     url: /publications_in_category/
     
+#   - title: "Research Work"
+#     url: /research_work/  
   - title: "Research Work"
-    url: /research_work/  
+    url: /researches/   
 
   - title: "Talks"
     url: /talks_all/   
@@ -14,9 +16,7 @@ main:
  
   - title: "Award"
     url: /award-honor/
-    
-#   - title: "Teaching"
-#     url: /teaching/    
+     
     
 #   - title: "Portfolio"
 #     url: /portfolio/
