@@ -5,6 +5,8 @@ main:
     
 #   - title: "Research Work"
 #     url: /research_work/  
+  - title: "Research Work"
+    url: /researches/   
 
   - title: "Talks"
     url: /talks_all/   
@@ -14,9 +16,7 @@ main:
  
   - title: "Award"
     url: /award-honor/
-    
-  - title: "Research Work"
-    url: /researches/    
+     
     
 #   - title: "Portfolio"
 #     url: /portfolio/
