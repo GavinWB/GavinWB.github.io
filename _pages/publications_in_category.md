@@ -47,7 +47,7 @@ author_profile: true
 
 - `Conference` [Prerequisite-driven q-matrix refine- ment for learner knowledge assessment: A case study in online learning context](https://arxiv.org/abs/2208.12642). 
   <br/>
-  **Wenbin Gan** and Yuan Sun. In Proceedings of the 30th International Conference on Computers in Education (ICCE 2022), pages 1–8, 2022.
+  **Wenbin Gan** and Yuan Sun. In Proceedings of the 30th International Conference on Computers in Education (ICCE 2022), pages 1–8, 2022. (**Best Paper Award Nominee**)
 
 - `Conference` [Explainable learners’ knowledge diagnosis by incorporating learner and domain modeling in intelligent tutoring systems](https://scholar.google.com/scholar?oi=bibs&cluster=6679154435795845621&btnI=1&hl=zh-CN). 
   <br/>
@@ -59,7 +59,7 @@ author_profile: true
 
 - `Conference` [Knowledge interaction enhanced knowledge tracing for learner performance prediction](https://ieeexplore.ieee.org/document/9348285). 
   <br/>
-  **Wenbin Gan**, Yuan Sun, and Yi Sun. In 2020 7th International Conference on Behavioural and Social Computing (BESC), pages 1–6. IEEE, 2020.
+  **Wenbin Gan**, Yuan Sun, and Yi Sun. In 2020 7th International Conference on Behavioural and Social Computing (BESC), pages 1–6. IEEE, 2020. (**Best Paper Award Nominee**)
 
 - `Conference`  [Field-aware knowledge tracing machine by modelling students’ dynamic learning procedure and item diﬀiculty](https://ieeexplore.ieee.org/abstract/document/8955517). 
   <br/>
