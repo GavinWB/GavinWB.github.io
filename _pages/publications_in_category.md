@@ -7,7 +7,7 @@ author_profile: true
 <!-- [Publication By Year](GavinWB/GavinWB.github.io/_pages/publication_by_year.md) -->
 
 
-## 📚 My Dissercation
+## 📚 My Dissertation
 
 - `Thesis` [Dynamic Learner’s Knowledge Assessment by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems](https://ir.soken.ac.jp/?action=repository_uri&item_id=6534&file_id=19&file_no=1&nc_session=u3kc28jr83se372rkempkv14s1). 
   <br/>
@@ -66,9 +66,6 @@ author_profile: true
   **Wenbin Gan**, Yuan Sun, Shiwei Ye, Ye Fan, and Yi Sun. In 2019 International conference on data mining workshops (ICDMW). IEEE, 2019.
 
 ## 🤖 Automatic Question Solving
-- `Journal` [A framework for solving explicit arithmetic word problems and proving plane geometry theorems](https://doi.org/10.1142/S0218001419400056). 
-  <br/>
-  Xinguo Yu, Mingshu Wang, **Wenbin Gan**, Bin He, and Nan Ye. International Journal of Pattern Recognition and Artificial Intelligence, volume 33, page 1940005. World Scientific, 2019.
 
 - `Journal` [Automatically proving plane geometry theorems stated by text and diagram](https://doi.org/10.1142/S0218001419400032). 
   <br/>
@@ -81,6 +78,10 @@ author_profile: true
 - `Journal` [Automatic understanding and formalization of natural language geometry problems using syntax-semantics models](https://www.researchgate.net/profile/Wenbin-Gan/publication/322939354_Automatic_understanding_and_formalization_of_natural_language_geometry_problems_using_syntax-semantics_models/links/5f322d8792851cd302eeda24/Automatic-understanding-and-formalization-of-natural-language-geometry-problems-using-syntax-semantics-models.pdf). 
   <br/>
   **Wenbin Gan** and Xinguo Yu. International Journal of Innovative Computing, Information and Control ICIC International, pages 83–98, 2018.
+  
+- `Journal` [A framework for solving explicit arithmetic word problems and proving plane geometry theorems](https://doi.org/10.1142/S0218001419400056). 
+  <br/>
+  Xinguo Yu, Mingshu Wang, **Wenbin Gan**, Bin He, and Nan Ye. International Journal of Pattern Recognition and Artificial Intelligence, volume 33, page 1940005. World Scientific, 2019.
 
 - `Conference` [Understanding explicit arithmetic word problems and explicit plane geometry problems using syntax-semantics models](https://ieeexplore.ieee.org/abstract/document/8300590). 
   <br/>
@@ -107,7 +108,7 @@ author_profile: true
 
 - `Conference` [IoT-based multimodal analysis for smart education: Current status, challenges and opportunities](https://doi.org/10.1145/3512731.3534208). 
   <br/>
-  **Wenbin Gan**, Minh Son Dao, Koji Zettsu, and Yuan Sun. In the Workshop on Intelli- gent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2022), pages 1–9. ACM, 2022.
+  **Wenbin Gan**, Minh Son Dao, Koji Zettsu, and Yuan Sun. In the Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2022), pages 1–9. ACM, 2022.
 
 - `Conference` [AI-Tutor: Generating tailored remedial questions and answers based on cognitive diagnostic assessment](https://ieeexplore.ieee.org/abstract/document/8963236). 
   <br/>
