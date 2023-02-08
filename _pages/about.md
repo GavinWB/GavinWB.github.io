@@ -14,6 +14,12 @@ I received a Ph.D. in Informatics from National Institute of Informatics [(NII)]
 
 My main work mostly focuses on researching and developing data-driven models for intelligent human-computer interaction and intelligent tutoring systems. I have done researches span topics in Intelligent Tutoring System and AI Enhanced Learning, including Automated Question Solver (especially in plane geometry), Question Understanding, Image Understanding, Language & Vision, Educational robots, Educational Human-computer Interaction, etc. I served as a JSPS project Principal Investigator for data-driven personalization of student online learning support [(see project page)](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/). My current research interests involve developing data mining and deep learning algorithms to discover insights of learners and learning contents in support of personalized cyber-physical learning, using techniques incorporating IoT multi-modal learning analytics, deep learning, virtual reality as well as the integrated research with educational robots.
 
+Research Interest
+======
+- Education/Cognitive theory +  AI techniques
+- Digital Education, Multimodal Learning Analytics, Artificial Intelligence Enhanced Learning, Intelligent Tutoring Systems
+
+
 Experiences
 ======
 
@@ -61,4 +67,14 @@ Experiences
   Main work: Proposed various approaches for automatically solving plane geometry questions stated by text and diagram.
   <br/>
   2014.07 – 2018.06
+  
+Funding
+======
+
+- 2020.04.24–2022.03.31 Grant-in-Aid for JSPS Fellows (20J15339), Japan Society for the Promotion of Science (JSPS) [2,100,000 Yen]	
+  <br/>
+  Project Name: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cognitive diagnostic assessment
+  [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/)
+  
+
   
