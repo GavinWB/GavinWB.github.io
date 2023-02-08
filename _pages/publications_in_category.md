@@ -53,9 +53,9 @@ author_profile: true
   <br/>
   **Wenbin Gan** and Yuan Sun. In 20th Annual Conference of Japan Association for Research on Testing, pages 1–4, 2022.
 
-- `Conference` [Improving knowledge tracing through embedding based on metapath](https://scholar.google.com/scholar?oi=bibs&cluster=12077735031460639424&btnI=1&hl=zh-CN). Chong Jiang, 
+- `Conference` [Improving knowledge tracing through embedding based on metapath](https://scholar.google.com/scholar?oi=bibs&cluster=12077735031460639424&btnI=1&hl=zh-CN). 
   <br/>
-  **Wenbin Gan**, Guiping Su, Yuan Sun, and Yi Sun. In the 29th International Conference on Computers in Education (ICCE), 2021. IEEE, 2021.
+  Chong Jiang*, **Wenbin Gan***, Guiping Su, Yuan Sun, and Yi Sun. In the 29th International Conference on Computers in Education (ICCE), 2021. IEEE, 2021.
 
 - `Conference` [Knowledge interaction enhanced knowledge tracing for learner performance prediction](https://ieeexplore.ieee.org/document/9348285). 
   <br/>
