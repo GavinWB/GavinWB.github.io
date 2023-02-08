@@ -71,9 +71,12 @@ Experiences
 Funding
 ======
 
-- 2020.04.24–2022.03.31 Grant-in-Aid for JSPS Fellows (20J15339), Japan Society for the Promotion of Science (JSPS) [2,100,000 Yen]	
+- Grant-in-Aid for JSPS Fellows (20J15339), Japan Society for the Promotion of Science (JSPS) [2,100,000 Yen]	
+  <br/>
+  2020.04.24–2022.03.31 
   <br/>
   Project Name: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cognitive diagnostic assessment
+  <br/>
   [https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/)
   
 
