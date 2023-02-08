@@ -45,7 +45,7 @@ Experiences
   2019.04 – 2020.03 
 
 
-- Central China Normal University Wollongong Joint Institute (China-Austrain), Wuhan, China
+- Central China Normal University Wollongong Joint Institute (China-Australia), Wuhan, China
   <br/>
   **Project Researcher**,
   <br/>
