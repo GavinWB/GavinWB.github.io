@@ -114,9 +114,9 @@ author_profile: true
   <br/>
   **Wenbin Gan**, Yuan Sun, Shiwei Ye, Ye Fan, and Yi Sun.In 2019 6Th International Conference on Behavioural and Social Computing (BESC), pages 1–6. IEEE, 2019.
 
-- `Journal` [SBTM: A joint sentiment and behaviour topic model for online course discussion forums](https://doi.org/10.1177/0165551520917120). Xian Peng, Qinmei Xu, and 
+- `Journal` [SBTM: A joint sentiment and behaviour topic model for online course discussion forums](https://doi.org/10.1177/0165551520917120). 
   <br/>
-  **Wenbin Gan**. Journal of Information Science, page 0165551520917120. SAGE Publications Sage UK: London, England, 2020.
+  Xian Peng, Qinmei Xu, and **Wenbin Gan**. Journal of Information Science, page 0165551520917120. SAGE Publications Sage UK: London, England, 2020.
 
 - `Journal` [Mining learners’ topic interests in course reviews based on like-LDA model](https://www.researchgate.net/profile/Zhi-Liu-31/publication/310830465_Mining_Learners'_Topic_Interests_in_Course_Reviews_based_on_Like-LDA_Model/links/5838ea8a08ae3d91723de53e/Mining-Learners-Topic-Interests-in-Course-Reviews-based-on-Like-LDA-Model.pdf). 
   <br/>
