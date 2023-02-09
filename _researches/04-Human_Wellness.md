@@ -16,6 +16,7 @@ Sleep plays a vital role in our physical, cognitive, and psychological well-bein
 
 <br/>[keywords]: **Sleep Quality Monitoring, Life Event Patterns, Personalized Feedback, Lifelogs**
 <br/>
+**Published paper:**
 - Wenbin Gan, Minh-Son Dao, Koji Zettsu, "Monitoring and Improving Personalized Sleep Quality from Long-Term Lifelogs," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 4356-4364, doi: 10.1109/BigData55660.2022.10020829.
 
 ##  Personalized On-board Driving Assistance  
@@ -26,4 +27,5 @@ Driver reaction is of vital importance in risk sce- narios. Drivers can take cor
 
 <br/>[keywords]: **Driving Assistance, Driving Maneuver Recommendation, Naturalistic Driving Study, Traffic Event Modeling, Case-based Reasoning, Intelligent Vehicles**
 <br/>
+**Published paper:**
 - Wenbin Gan, Minh-Son Dao, Koji Zettsu, "An Open Case-based Reasoning Framework for Personalized On-board Driving Assistance in Risk Scenarios," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 1822-1829, doi: 10.1109/BigData55660.2022.10020284.
