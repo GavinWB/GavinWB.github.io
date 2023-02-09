@@ -14,7 +14,7 @@ and several models for automatically solving math (especially plane geometry) pr
 
 This is a relation extraction based general framework for automatic question solving. I divide this task into three steps: first I extract domain knowledge and generate the frequent linguistic patterns from large numbers of corpus. And then use this knowledge to guide the relation extraction and conduct deductive reasoning to generate the tutoring solutions. Specifically, we conduct text and diagram understanding simultaneously to transform the question into machine-understandable logics to generate the step-by-step tutoring. 
 
-<img src='/images/QA_framework.png' aligh='center' width='70%'>
+<img src='/images/QA_framework.png' aligh='center' width='80%'>
 <br/>
 
 
@@ -29,7 +29,7 @@ This is a relation extraction based general framework for automatic question sol
 Based on this framework, I have proposed several methods to solve different kinds of math problems.
 
 
-<img src='/images/QA_appraoches.png' aligh='center' width='60%'>
+<img src='/images/QA_appraoches.png' aligh='center' width='80%'>
 <br/>
 
 
@@ -37,9 +37,9 @@ Based on this framework, I have proposed several methods to solve different kind
 
 
 
-[Introduction]: We proposed an algorithm for proving plane geometry theorems stated by text and diagram in a complementary way. The problem of proving plane geometry theorems involves two challenging subtasks, being theorem understanding and theorem proving. This paper proposes to consider theorem understanding as a problem of extracting relations from text and diagram. A syntax–semantics (S2) model method is proposed to extract the geometric relations from theorem text, and a diagram mining method is proposed to extract geometry relations from diagram. Then, a procedure is developed to obtain a set of relations that is consistent with the given theorem with high confidence. Finally, theorem proving is conducted by using the deductive reasoning methods which take the extracted geometric relations as input. The experimental results show that the proposed theorem proving algorithm can prove 86% of plane geometry theorems in the test dataset of 200 theorems, which is all the theorems in the popular textbook. The proposed algorithm outperforms the existing algorithms mainly because it can extract relations not only from text but also from diagram.
+We proposed an algorithm for proving plane geometry theorems stated by text and diagram in a complementary way. The problem of proving plane geometry theorems involves two challenging subtasks, being theorem understanding and theorem proving. This paper proposes to consider theorem understanding as a problem of extracting relations from text and diagram. A syntax–semantics (S2) model method is proposed to extract the geometric relations from theorem text, and a diagram mining method is proposed to extract geometry relations from diagram. Then, a procedure is developed to obtain a set of relations that is consistent with the given theorem with high confidence. Finally, theorem proving is conducted by using the deductive reasoning methods which take the extracted geometric relations as input. The experimental results show that the proposed theorem proving algorithm can prove 86% of plane geometry theorems in the test dataset of 200 theorems, which is all the theorems in the popular textbook. The proposed algorithm outperforms the existing algorithms mainly because it can extract relations not only from text but also from diagram.
 
-<br/>[Keywords]: **Geometry theorem proving; theorem understanding; relation extraction; syntax–semantics model; diagram mining.**
+<br/>[Keywords]: **Geometry theorem proving, theorem understanding, relation extraction, syntax–semantics model, diagram mining.**
 <br/>
 
 - Wenbin Gan, Xinguo Yu, Ting Zhang, and Mingshu Wang. [Automatically proving plane geometry theorems stated by text and diagram](https://doi.org/10.1142/S0218001419400032). International Journal of Pattern Recognition and Artificial Intelligence, volume 33, page 1940003. World Scientific, 2019.
@@ -57,7 +57,7 @@ Based on this framework, I have proposed several methods to solve different kind
 
 [Introduction]: Automatically understanding natural language problems is a long-standing challenging research problem in automatic solving. This work models the understanding of geometry problems as a problem of relation extraction, instead of as the problem of semantic understanding of natural language. Then it further proposes a supervised machine learning method to extract geometric relations, targeting to produce a group of relations to represent the given geometry problem. This method identifies the actual geometric relations from the relation candidates using a classifier trained from the labelled examples. The formalized geometric relations can then be transformed into the target system-native representations for manipulation in various tasks. Experiments conducted on the test problem dataset show that the proposed method can extract geometric relations at high F1 scores. The comparisons also demonstrate that the proposed method can achieve good performance against the baseline methods. Integrating the automatic understanding method with different geometry systems will greatly enhance the efficiency and intelligence in geometry tutoring.
 
-<br/>[Keywords]: **Understanding geometry problems; formalized geometric propositions; relation extraction; automatic solving; relation identification. **
+<br/>[Keywords]: **Understanding geometry problems, formalized geometric propositions, relation extraction, automatic solving, relation identification.**
 <br/>
 
 
