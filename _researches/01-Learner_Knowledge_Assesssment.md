@@ -11,6 +11,10 @@ With the rise of online education platforms, there is an increasing need for mac
 
 To this end, I have proposed several novel models to trace the evolution of each learner’s knowledge acquisition during exercise activities by incorporating both learner and learning domain modeling. 
 
+<img src='/images/KT_result.png' aligh='center' width='60%'>
+<br/>
+
+
 ## KTM-DLF (Knowledge Tracing Machine by modeling cognitive item Difficulty and Learning and Forgetting)
 
 <img src='/images/KTM-DLF.png' aligh='center' width='60%'>
