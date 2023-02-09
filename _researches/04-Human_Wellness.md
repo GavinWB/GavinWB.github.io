@@ -1,5 +1,5 @@
 ---
-title: "Multimodal Big Data Analysis for Human Wellness [Click here for more details]"
+title: "Multimodal Big Data Analysis for Human Wellness"
 excerpt: "conducts research on and development of smart data analytics technology, to enable behavior support through real-world analysis and predictions that link data of various types from various fields. <br/><img src='/images/human_wellness.png' aligh='center' width='80%'>"
 collection: researches
 ---
