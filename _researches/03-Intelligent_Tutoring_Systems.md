@@ -10,7 +10,7 @@ I have conducted some research work in this direction to improve the ITSs with p
 
 ## AI-Tutor Framework
 
-<img src='/images/AI-Tutor.png' aligh='center' width='70%'>
+<img src='/images/AI-Tutor.png' aligh='center' width='60%'>
 <br/>
 
 [Introduction]: Developing AI-powered intelligent tutoring systems to facilitate adaptive learning has been a hot research topic due to that these systems can provide personalized learning guidance by taking individual learner's status and needs into consideration to improve their learning performance. Based on this perspective, this paper proposes a novel personalized adaptive tutoring system named AI-Tutor, which not only incorporates the basic functions of general tutoring systems that providing adaptive course learning to learners, but also can generate tailored remedial questions and answers based on cognitive diagnostic assessment. This unique and tailored tutoring service will potentially help learners master the deficient knowledge points in a much shorter time. This paper presents the preliminary research and development in implementing such an AI-powered tutor. First, it gives the system design with the function description of main modules and the operating procedure. Second, it identifies four main research problems behind this system and proposes approaches to solve these problems in developing the AI-Tutor. 
@@ -25,6 +25,8 @@ I have conducted some research work in this direction to improve the ITSs with p
 
 ## IoT-based Multimodal Learning Analysis for Smart Education
 
+<img src='/images/IoT_ed.png' aligh='center' width='60%'>
+<br/>
 
 [Introduction]: IoT-based multimodal learning analytics promises to obtain an in-depth understanding of the learning process. It provides the insights for not only the explicit learning indicators but also the implicit attributes of learners. Hence further potential learning support can be timely provided in both physical and cyber world accordingly. In this paper, we present a systematic review of the existing studies for examining the empirical evidences on the usage of IoT data in education and the capabilities of multimodal analysis to provide useful insights for smarter education. In particular, we classify the multimodal data into four categories based on the data sources (data from digital, physical, physiological and environmental spaces). Moreover, we propose a concept framework for better understanding the current state of the filed and summarize the insights into six main themes (learner behavior understanding, learner affection computing, smart learning environment, learning performance prediction, group collaboration modeling and intelligent feedback) based on the objectives for intelligent learning. The associations between different combinations of data modalities and various learning indicators are comprehensively discussed. Finally, the challenges and future directions are also presented from three aspects.
 
