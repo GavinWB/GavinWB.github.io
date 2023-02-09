@@ -1,6 +1,6 @@
 ---
 title: "Learner Knowledge Assesssment"
-excerpt: "<font color=red> [Please click the title of each research topic to see more details] </font> <br/>How to effectively infer and track the learning progress of a learner through his/her online interaction with learning materials?<br/><img src='/images/knowledge_tracing.png' align='center' width='80%' />"
+excerpt: "<font color=red> [Please click the title to see more details] </font> <br/>How to effectively infer and track the learning progress of a learner through his/her online interaction with learning materials?<br/><img src='/images/knowledge_tracing.png' align='center' width='80%' />"
 collection: researches
 ---
 
