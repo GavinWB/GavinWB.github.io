@@ -1,6 +1,6 @@
 ---
 title: "Learner Knowledge Assesssment"
-excerpt: "how to effectively infer and track the learning progress of a learner through his/her online interaction with learning materials?<br/><img src='/images/knowledge_tracing.png', align=center, width="80%">"
+excerpt: "how to effectively infer and track the learning progress of a learner through his/her online interaction with learning materials?<br/><img src='/images/knowledge_tracing.png' align=center width="80%">"
 collection: researches
 ---
 
