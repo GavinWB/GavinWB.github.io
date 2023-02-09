@@ -21,6 +21,8 @@ To this end, I have proposed several novel models to trace the evolution of each
 <br/>
 
 - Wenbin Gan, Yuan Sun, Xian Peng, Yi Sun. Modeling learner’s dynamic knowledge construction procedure and cognitive item difficulty for knowledge tracing. Applied Intelligence, 50, 3894–3912 (2020). https://doi.org/10.1007/s10489-020-01756-7.
+- Wenbin Gan, Yuan Sun, Shiwei Ye, Ye Fan, Yi Sun. Field-Aware Knowledge Tracing Machine by Modelling Students' Dynamic Learning Procedure and Item Difficulty[C]//2019 International conference on data mining workshops (ICDMW). IEEE, 2019: 1045-1046.
+- Wenbin Gan, Dynamic Learner’s Knowledge Assessment by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems. PhD thesis, National Institute of Informatics, Japan, 2022.
 
 ##  KIEDLKD (knowledge interaction-enhanced dynamic learner knowledge diagnosis)
 
@@ -33,6 +35,9 @@ To this end, I have proposed several novel models to trace the evolution of each
 <br/>
 
 - Wenbin Gan, Yuan Sun, Yi Sun. Knowledge interaction enhanced sequential modeling for interpretable learner knowledge diagnosis in intelligent tutoring systems[J]. Neurocomputing, 2022, 488: 36-53. https://doi.org/10.1016/j.neucom.2022.02.080.
+- Wenbin Gan, Yuan Sun, Yi Sun. Knowledge interaction enhanced knowledge tracing for learner performance prediction[C]//2020 7th international conference on behavioural and social computing (BESC). IEEE, 2020: 1-6.
+- Wenbin Gan and Yuan Sun. Explainable learners’ knowledge diagnosis by incorporating learner and domain modeling in intelligent tutoring systems. In 20th Annual Conference of Japan Association for Research on Testing, pages 1–4, 2022.
+- Wenbin Gan, Dynamic Learner’s Knowledge Assessment by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems. PhD thesis, National Institute of Informatics, Japan, 2022.
 
 ## KSGKT (Knowledge Structure‐enhanced Graph Representation Learning Model for Knowledge Tracing)
 
@@ -45,3 +50,8 @@ To this end, I have proposed several novel models to trace the evolution of each
 <br/>
 
 - Wenbin Gan, Yuan Sun, Yi Sun. Gan W, Sun Y, Sun Y. Knowledge structure enhanced graph representation learning model for attentive knowledge tracing[J]. International Journal of Intelligent Systems, 2022, 37(3): 2012-2045. https://doi.org/10.1002/int.22763.
+- Wenbin Gan and Yuan Sun. Prerequisite-driven q-matrix refinement for learner knowledge assessment: A case study in online learning context. In Proceedings of the 30th International Conference on Computers in Education (ICCE 2022), pages 1–8, 2022. (Best Paper Award Nominee)
+- Chong Jiang*, Wenbin Gan*, Guiping Su, Yuan Sun, and Yi Sun. Improving knowledge tracing through embedding based on metapath[C]//The 29th International Conference on Computers in Education (ICCE). 11-20.
+- Wenbin Gan, Dynamic Learner’s Knowledge Assessment by Incorporating Learner and Domain Modeling in Intelligent Tutoring Systems. PhD thesis, National Institute of Informatics, Japan, 2022.
+
+
