@@ -10,6 +10,7 @@ author_profile: true
 
 - AIED 2023: International Conference on Artificial Intelligence in Education,
 - MMM 2023: International Conference on MultiMedia Modeling,
+- MediaEval 2022: Multimedia Evaluation challenges,
 - IEEE Big Data 2022: IEEE International Conference on Big Data,
 - IEEE KSE 2022: IEEE International Conference on Knowledge and Systems Engineering, 
 - BDA4HM 2022: International Workshop on Big Data Analytics for Health and Medicine, 
