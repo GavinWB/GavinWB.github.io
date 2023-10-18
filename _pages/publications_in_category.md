@@ -65,7 +65,7 @@ author_profile: true
   <br/>
   **Wenbin Gan**, Yuan Sun, Shiwei Ye, Ye Fan, and Yi Sun. In 2019 International conference on data mining workshops (ICDMW). IEEE, 2019.
 
-## 🤖 Automatic Question Solving
+## 🤖 Automatic Question Solving for Intelligent Tutoring
 
 - `Journal` [Automatically proving plane geometry theorems stated by text and diagram](https://doi.org/10.1142/S0218001419400032). 
   <br/>
