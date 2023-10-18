@@ -133,7 +133,6 @@ author_profile: true
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji.  In the 4th ACM Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2023), pages 10–18. ACM, 2023.
 
 
-
 - `Conference` [An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios](https://ieeexplore.ieee.org/document/10020284). 
   <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–8, 2022.
