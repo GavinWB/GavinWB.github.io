@@ -124,13 +124,13 @@ author_profile: true
 
 ## 🎯 Multimodal Big Data Analysis for Human Wellness
 
-- `Conference` Drive-clip: Cross-modal contrastive safety- critical driving scenario representation learning and zero-shot driving risk analysis. 
+- `Conference` [Drive-clip: Cross-modal contrastive safety- critical driving scenario representation learning and zero-shot driving risk analysis.] 
 <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 30th Inter- national Conference on Multimedia Modeling (MMM 2024).(submitted), pages 1–12. Springer, 2024.
 
 - `Conference` [Procedural driving skill coaching from more skilled drivers to safer drivers: A survey](https://dl.acm.org/doi/abs/10.1145/3592571.3592973))
 <br/>
-  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji.  In the 4th ACM Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2023), pages 10–18. ACM, 2023.
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In the 4th ACM Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2023), pages 10–18. ACM, 2023.
 
 
 - `Conference` [An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios](https://ieeexplore.ieee.org/document/10020284). 
