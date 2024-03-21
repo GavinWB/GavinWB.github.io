@@ -4,6 +4,9 @@ permalink: /talks_all/
 author_profile: true
 ---
 - “Drive-clip: Cross-modal contrastive safety-critical driving scenario representation learning and zero-shot driving risk analysis”, The 30th International Conference on Multimedia Modeling (MMM 2024), Amsterdam, The Netherlands.
+
+- “Procedural driving skill coaching from more skilled drivers to safer drivers”, ACM International Conference on Multimedia Retrieval (ACM ICMR 2023), Thessaloniki, Greece.
+
 - “An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios”, The IEEE International Conference on Big Data (IEEE BigData 2022), Osaka, Japan.
 
 - “Monitoring and improving personalized sleep quality from long-term lifelogs.”, The IEEE International Conference on Big Data (IEEE BigData 2022), Osaka, Japan.
