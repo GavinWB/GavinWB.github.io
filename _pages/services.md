@@ -5,7 +5,7 @@ excerpt: "Professional Services"
 author_profile: true
 ---
 
-## Conference Program Committee
+## Conference Program Committee Member
 
 - NeurIPS’23 Workshop: Generative AI for Education (GAIED),
 - EDM 2023, 2024: International Conference on Educational Data Mining
@@ -24,7 +24,7 @@ author_profile: true
 - PSIVT 2017: Pacific-Rim Symposium on Image and Video Technology,
 - EITT 2015: International Conference of Educational Innovation through Technology
 
-##  Conference/Workshop/Seeeion Organizer
+##  Conference/Workshop/Session Organizer
 
 - Organizing Committee Chair of the 2023 3rd International Conference on Electronic Informa- tion Engineering and Computer Communication (EIECC 2023), Wuhan, China.
 - Session Chair of session “Complex Big Data Applications” in IEEE BigData 2022, Osaka, Japan.
