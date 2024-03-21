@@ -8,13 +8,14 @@ author_profile: true
 ## Conference Program Committee
 
 - NeurIPS’23 Workshop: Generative AI for Education (GAIED),
-- AIED 2023: International Conference on Artificial Intelligence in Education,
-- CBMI 2023: International Conference on Content-based Multimedia Indexing,
-- ACM ICMR 2022, 2023: ACM International Conference on Multimedia Retrieval,
-- MMM 2023: International Conference on MultiMedia Modeling,
+- EDM 2023, 2024: International Conference on Educational Data Mining
+- AIED 2023,2024: International Conference on Artificial Intelligence in Education,
+- ACM ICMR 2022, 2023, 2024: ACM International Conference on Multimedia Retrieval,
+- MMM 2022, 2023, 2024: International Conference on MultiMedia Modeling,
+- CBMI 2023, 2024: International Conference on Content-based Multimedia Indexing,
 - EIECC 2023: International Conference on Electronic Informa- tion Engineering and Computer Communication,
 - MediaEval 2022: Multimedia Evaluation challenges,
-- IEEE Big Data 2022, 2023: IEEE International Conference on Big Data,
+- IEEE Big Data 2022, 2023, 2024: IEEE International Conference on Big Data,
 - IEEE KSE 2022, 2023: IEEE International Conference on Knowledge and Systems Engineering, 
 - BDA4HM 2022: International Workshop on Big Data Analytics for Health and Medicine, 
 - IEIR 2022: International Conference on Intelligent Education and Intelligent Research,
