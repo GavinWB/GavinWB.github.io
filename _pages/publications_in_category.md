@@ -6,6 +6,8 @@ author_profile: true
 
 <!-- [Publication By Year](GavinWB/GavinWB.github.io/_pages/publication_by_year.md) -->
 
+You can find the full publication list in [Google Scholar](https://scholar.google.com/citations?user=pqhrg6wAAAAJ&hl=en).
+<br/>
 
 ## 📚 My Dissertation
 
