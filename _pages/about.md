@@ -24,7 +24,7 @@ Research Interest
 Experiences
 ======
 
-- National Institute of Information and Communications Technology (NICT), Tokyo, Japan 
+- <u>National Institute of Information and Communications Technology (NICT)</u>, Tokyo, Japan 
   <br/>
   **Researcher**, at Big Data Integration Research Center,
   <br/>
@@ -33,7 +33,7 @@ Experiences
   2021.11 – Present 
   
   
-- National Institute of Informatics (NII), Tokyo, Japan
+- <u>National Institute of Informatics (NII)</u>, Tokyo, Japan
   <br/>
   **JSPS Research Fellowship for Young Scientists (DC2)**,  
   Main work: AI enhanced adaptive tutoring system by generating individualized questions and answers based on cognitive diagnostic assessment.
@@ -43,7 +43,7 @@ Experiences
   [Grant-in-Aid for JSPS Fellows Project ID: 20J15339](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/)
   
 
-- National Institute of Informatics, Tokyo, Japan
+- <u>National Institute of Informatics (NII)</u>, Tokyo, Japan
   <br/>
   **Research Assistant**,
   <br/>
@@ -52,7 +52,7 @@ Experiences
   2019.04 – 2020.03 
 
 
-- Central China Normal University Wollongong Joint Institute (China-Australia), Wuhan, China
+- <u>Central China Normal University Wollongong Joint Institute (China-Australia)</u>, Wuhan, China
   <br/>
   **Project Researcher**,
   <br/>
@@ -61,7 +61,7 @@ Experiences
   2018.07 – 2019.03
   
   
-- National Engineering Research Center for E-Learning (NERCEL), Central China Normal University, Wuhan, China
+- <u>National Engineering Research Center for E-Learning (NERCEL), Central China Normal University</u>, Wuhan, China
   <br/>
   **Research Assistant**,
   <br/>
