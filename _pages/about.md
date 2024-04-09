@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<font color=red>I am looking for an opportunity (Assistant Professor/lecturer, Senior Researcher, Research Scientist). If you or someone you know has a position available, please contact me, and share the post. Thank you. </font>
+
 
 I am a researcher at Big Data Integration Research Center, National Institute of Information and Communications Technology [(NICT)](https://bdirc.nict.go.jp/en/), Tokyo, Japan.
 
