@@ -3,7 +3,13 @@ title: "Talks and Presentation"
 permalink: /talks_all/
 author_profile: true
 ---
+- “Domain Model and Learner Model: two intertwined aspects for Adaptive Learning", invited talk in School of Educational Information Technology, Central China Normal University, Wuhan, China, March, 2024.
+
+- “Learner knowledge modeling for adaptive learning", invited talk in International Forum for Outstanding Overseas Young Scholars, Central China Normal University, Wuhan, China, January, 2024.
+
 - “Drive-clip: Cross-modal contrastive safety-critical driving scenario representation learning and zero-shot driving risk analysis”, The 30th International Conference on Multimedia Modeling (MMM 2024), Amsterdam, The Netherlands.
+  
+- "Educational assessment for adaptive learning: from the psychometric models to machine learning models", invited keynote talk in International Conference on Intelligent Education and Intelligent Research (IEIR 2023), Wuhan, China. 
 
 - “Procedural driving skill coaching from more skilled drivers to safer drivers”, ACM International Conference on Multimedia Retrieval (ACM ICMR 2023), Thessaloniki, Greece.
 
