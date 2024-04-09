@@ -6,7 +6,7 @@ author_profile: true
 
 <!-- [Publication By Year](GavinWB/GavinWB.github.io/_pages/publication_by_year.md) -->
 
-The full publication list in [Google Scholar](https://scholar.google.com/citations?user=pqhrg6wAAAAJ&hl=en).
+The full publication list in [Google Scholar](https://scholar.google.com/citations?user=pqhrg6wAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Wenbin-Gan).
 <br/>
 
 ## 📚 My Dissertation
