@@ -58,5 +58,6 @@ author_profile: true
 
 ## Review Editor
 
-- Editorial Board of Educational Psychology for Frontiers in Psychology and Frontiers in Education.
+- Editor of "Educational Psychology" section for "Frontiers in Psychology" and "Frontiers in Education".
+- Editor of "AI for Human Learning and Behavior Change" section in "Frontiers in Artificial Intelligence".
 - Guest Editor of Special Issue of “Systems and Technology for Intelligent Education” for journal “Sustainability”.
