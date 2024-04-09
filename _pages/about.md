@@ -9,7 +9,6 @@ redirect_from:
 ---
 <font color=red>I am looking for an opportunity (Assistant Professor/Lecturer, Senior Researcher, Research Scientist, etc.). If you or someone you know has a position available, please contact me, and share the post. Thank you. </font>
 <br/>
-
 I am a researcher at Big Data Integration Research Center, National Institute of Information and Communications Technology [(NICT)](https://bdirc.nict.go.jp/en/), Tokyo, Japan.
 
 I received a Ph.D. in Informatics from National Institute of Informatics [(NII)](https://www.nii.ac.jp/en/), The Graduate University for Advanced Studies (SOKENDAI) and a second Ph.D. in Educational Technology from Central China Normal University [(CCNU)](http://foaie.ccnu.edu.cn/Home/index.htm). Before joining NICT, I was an JSPS research fellow at National Institute of Informatics and a postdoctoral fellow at Central China Normal University Wollongong Joint Institute [(CCNU-UOW)](http://uowji.ccnu.edu.cn/en/Home.htm).
