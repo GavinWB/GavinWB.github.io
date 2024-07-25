@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 <font color=red>[**Open for Job Opportunities**] I am looking for an opportunity (Assistant Professor/Lecturer, Senior Researcher, Research Scientist, etc.). If you or someone you know has a position available, please contact me, and share the post <wbgan.cs@gmail.com>. Thank you in advance. </font>
+Email
+======
+<wbgan.cs@gmail.com>
+
 <br/>
 I am a researcher at Big Data Integration Research Center, National Institute of Information and Communications Technology [(NICT)](https://bdirc.nict.go.jp/en/), Tokyo, Japan.
 
@@ -15,9 +19,6 @@ I received a Ph.D. in Informatics from National Institute of Informatics [(NII)]
 
 My main work mostly focuses on researching and developing data-driven models for intelligent human-computer interaction and intelligent tutoring systems. I have done researches span topics in Intelligent Tutoring System and AI Enhanced Learning, including Automated Question Solver (especially in plane geometry), Question Understanding, Image Understanding, Language & Vision, Educational robots, Educational Human-computer Interaction, etc. I served as a JSPS project Principal Investigator for data-driven personalization of student online learning support [(see project page)](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J15339/). My current research interests involve developing data mining and deep learning algorithms to discover insights of learners and learning contents in support of personalized cyber-physical learning, using techniques incorporating IoT multi-modal learning analytics, deep learning, as well as the integrated research with educational applications.
 
-Email
-======
-<wbgan.cs@gmail.com>
 
 
 Research Interest
