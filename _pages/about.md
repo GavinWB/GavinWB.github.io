@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <font color=red>[**Open for Job Opportunities**] I am looking for an opportunity (Assistant Professor/Lecturer, Senior Researcher, Research Scientist, etc.). If you or someone you know has a position available, please contact me, and share the post <wbgan.cs@gmail.com>. Thank you in advance. </font>
+<font color=red>[**Open for Cooperation**] If you are interested in cooperation in the field of Artificial Intelligence in Education, please freely contact me at <wbgan.cs@gmail.com>. </font>
 
 <br/>
 I am a researcher at Big Data Integration Research Center, National Institute of Information and Communications Technology [(NICT)](https://bdirc.nict.go.jp/en/), Tokyo, Japan.
