@@ -4,7 +4,7 @@ title: "Awards & Honors"
 excerpt: "Awards & Honors"
 author_profile: true
 ---
-
+- `2024` Recipient of Best Indusrial Demo Award in The 32nd ACM International Conference on Multimedia (ACM MM 24).
 - `2022` Recipient of Best Paper Award Nominee in 2022 30th International Conference on Computers in Education (ICCE 2022).
 - `2020`  Recipient of Best Student Paper Award Nominee in 2020 7th International Conference on Behavioural and Social Computing (BESC).
 - `2020–2022` JSPS Research Fellowship for Young Scientists (DC2) by Japan Society for the Promotion of Science (JSPS), as a PhD research scholar in National Institute of Informatics.
