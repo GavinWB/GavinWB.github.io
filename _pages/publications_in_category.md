@@ -108,6 +108,10 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 
 ## 🧑🏻‍💻 Intelligent Tutoring Systems
 
+- `Conference` Integrating educational assessment and generative AI for personalized knowledge building: An exploratory study.
+  <br/>
+  **Wenbin Gan**, Yuan Sun, and Yu Xinguo. In International Conference on Intelligent Education and Intelligent Research (IEIR 2024)., pages 1–8. IEEE, 2024.
+  
 - `Conference` [IoT-based multimodal analysis for smart education: Current status, challenges and opportunities](https://doi.org/10.1145/3512731.3534208). 
   <br/>
   **Wenbin Gan**, Minh Son Dao, Koji Zettsu, and Yuan Sun. In the Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2022), pages 1–9. ACM, 2022.
@@ -126,6 +130,9 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 
 ## 🎯 Multimodal Big Data Analysis for Human Wellness
 
+- `Conference` [Smart driving assistance with real-time risk assessment and personalized driving coaching to enhance road safety](https://doi.org/10.1007/978-981-96-2074-6_24).
+    <br/>
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 31th International Conference on Multimedia Modeling (MMM 2025)., pages 1–8. Springer, 2025
 - `Conference` [Drive-clip: Cross-modal contrastive safety-critical driving scenario representation learning and zero-shot driving risk analysis](https://doi.org/10.1007/978-3-031-53308-2_7). 
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 30th International Conference on Multimedia Modeling (MMM 2024), pages 1–12. Springer, 2024.
 
