@@ -25,6 +25,7 @@ Research Interest
 ======
 - Education/Cognitive theory +  AI techniques
 - Digital Education, Multimodal Learning Analytics, Artificial Intelligence Enhanced Learning, Intelligent Tutoring Systems
+- various Aspects of User Modeling for Personalized Services 
 
 
 Experiences
