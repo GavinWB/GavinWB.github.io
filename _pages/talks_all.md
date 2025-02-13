@@ -3,6 +3,17 @@ title: "Talks and Presentation"
 permalink: /talks_all/
 author_profile: true
 ---
+
+- “Multimodal Big Data-driven Intelligent Perception Model Construction and Personalized User Behavior Support”, invited talk at Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China, Chengdu, China, Nov., 2024.
+
+- “Research on Cognitive Diagnostic Assessment and Intelligent Tutoring of Learners for Personalized Learning ”, invited talk at School of Education, Guangzhou University, Guangzhou, China, Nov., 2024.
+
+- “Educational Assessment and Generative-AI for Adaptive Learning/Coaching ”, invited keynote speak at International Conference on Intelligent Education and Intelligent Research (IEIR 2024), Macau, China, Nov., 2024.
+
+- “Integrating Educational Assessment and Generative AI for Personalized Knowledge Building: An Exploratory Study”, International Conference on Intelligent Education and Intelligent Research (IEIR 2024), Macau, China, Nov., 2024.
+
+- “Multimodal big data-driven perceptual model construction and personalized human behavior support”, invited talk at School of Computer Science, South-Central Minzu University, Wuhan, China, July, 2024. 
+
 - “Domain Model and Learner Model: two intertwined aspects for Adaptive Learning", invited talk in School of Educational Information Technology, Central China Normal University, Wuhan, China, March, 2024.
 
 - “Learner knowledge modeling for adaptive learning", invited talk in International Forum for Outstanding Overseas Young Scholars, Central China Normal University, Wuhan, China, January, 2024.
