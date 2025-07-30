@@ -108,7 +108,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 
 ## 🧑🏻‍💻 Intelligent Tutoring Systems
 
-- `Conference` Integrating educational assessment and generative AI for personalized knowledge building: An exploratory study.
+- `Conference` [Integrating educational assessment and generative AI for personalized knowledge building: An exploratory study](https://ieeexplore.ieee.org/document/10960029).
   <br/>
   **Wenbin Gan**, Yuan Sun, and Yu Xinguo. In International Conference on Intelligent Education and Intelligent Research (IEIR 2024)., pages 1–8. IEEE, 2024.
   
@@ -128,8 +128,15 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
   <br/>
   Xian Peng, Sanya Liu, Zhi Liu, **Wenbin Gan**, and Jianwen Sun. International Journal of Innovative Computing, Information and Control, volume 12, pages 2099–2110, 2016.
 
-## 🎯 Multimodal Big Data Analysis for Human Wellness
+## 🎯 General Education (Adaptive Driver Coaching), Multimodal Big Data Analysis for Human Wellness
 
+- `Conference` Simulated Insight, Real-World Impact: Enhancing Driving Safety with CARLA-Simulated Personalized Lessons and Eye-Tracking Risk Coaching.
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. 27th ACM International Conference on Multimodal Interaction (ICMI 2025).
+
+- `Conference` [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://doi.org/10.48550/arXiv.2506.205
+).
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. Arxiv.
+  
 - `Conference` [Smart driving assistance with real-time risk assessment and personalized driving coaching to enhance road safety](https://doi.org/10.1007/978-981-96-2074-6_24).
     <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 31th International Conference on Multimedia Modeling (MMM 2025)., pages 1–8. Springer, 2025
