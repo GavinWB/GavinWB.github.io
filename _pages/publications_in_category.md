@@ -130,7 +130,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 
 ## 🎯 General Education (Adaptive Driver Coaching), Multimodal Big Data Analysis for Human Wellness
 
-- `Conference` Simulated Insight, Real-World Impact: Enhancing Driving Safety with CARLA-Simulated Personalized Lessons and Eye-Tracking Risk Coaching.
+- `Conference` [Simulated Insight, Real-World Impact: Enhancing Driving Safety with CARLA-Simulated Personalized Lessons and Eye-Tracking Risk Coaching](https://doi.org/10.1145/3716553.3757087).
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. 27th ACM International Conference on Multimodal Interaction (ICMI 2025).
 
 - `Conference` [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://doi.org/10.48550/arXiv.2506.205
