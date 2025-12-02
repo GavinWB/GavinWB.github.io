@@ -7,14 +7,15 @@ author_profile: true
 
 ## Conference Program Committee Member
 
-- NeurIPS’23 Workshop: Generative AI for Education (GAIED),
-- EDM 2023, 2024, 2025: International Conference on Educational Data Mining
+- EDM 2023, 2024, 2025: International Conference on Educational Data Mining,
+- ITS 2024, 2025, 2026: International Conference on Intelligent Tutoring Systems
 - AIED 2023,2024: International Conference on Artificial Intelligence in Education,
+- NeurIPS’23 Workshop: Generative AI for Education (GAIED),
 - IEEE ICDM 2025: The IEEE International Conference on Data Mining,
 - ACM MM 2025: ACM Multimedia,
 - AAAI IAAI 2025: Innovative Applications of Artificial Intelligence Conference,
 - ACM ICMR 2022, 2023, 2024, 2025: ACM International Conference on Multimedia Retrieval,
-- ICMI 2025: International Conference on Multimodal Interaction,
+- ACM ICMI 2025: International Conference on Multimodal Interaction,
 - IEEE Big Data 2022, 2023, 2024, 2025: IEEE International Conference on Big Data,
 - MMM 2022, 2023, 2024, 2025: International Conference on MultiMedia Modeling,
 - CBMI 2023, 2024, 2025: International Conference on Content-based Multimedia Indexing,
@@ -47,6 +48,7 @@ author_profile: true
 - IEEE Transactions on Knowledge Discovery from Data,
 - IEEE Transactions on Computational Social Systems,
 - IEEE Transactions on Fuzzy Systems,
+- IEEE Transactions on Industrial Electronics,
 - Research and Practice in Technology Enhanced Learning (RPTEL),
 - International Journal of Human - Computer Studies,
 - Computers & Education: Artificial Intelligence,
