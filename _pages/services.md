@@ -8,7 +8,7 @@ author_profile: true
 ## Conference Program Committee Member
 
 - EDM 2023, 2024, 2025: International Conference on Educational Data Mining,
-- ITS 2024, 2025, 2026: International Conference on Intelligent Tutoring Systems
+- ITS 2024, 2025, 2026: International Conference on Intelligent Tutoring Systems,
 - AIED 2023,2024: International Conference on Artificial Intelligence in Education,
 - NeurIPS’23 Workshop: Generative AI for Education (GAIED),
 - IEEE ICDM 2025: The IEEE International Conference on Data Mining,
@@ -57,6 +57,7 @@ author_profile: true
 - International Journal of Human-Computer Studies ,
 - IEEE Transactions on Consumer Electronics,
 - ACM Transactions on Asian and Low-Resource Language Information Processing,
+- ACM Transactions on Intelligent Systems and Technology,
 - User Modeling and User-Adapted Interaction,
 - Cognitive Systems Research,
 - Scientific Reports,
