@@ -6,7 +6,7 @@ author_profile: true
 
 <!-- [Publication By Year](GavinWB/GavinWB.github.io/_pages/publication_by_year.md) -->
 
-The full publication list in [Google Scholar](https://scholar.google.com/citations?user=pqhrg6wAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Wenbin-Gan).
+The full publication list in [Google Scholar](https://scholar.google.com/citations?user=pqhrg6wAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Wenbin-Gan), [DBLP](https://dblp.org/pid/191/5277.html) and [ResearchMap](https://researchmap.jp/wbgan).
 <br/>
 
 ## 📚 My Dissertation
@@ -126,7 +126,16 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
   
 - `Conference` [Smart driving assistance with real-time risk assessment and personalized driving coaching to enhance road safety](https://doi.org/10.1007/978-981-96-2074-6_24).
     <br/>
-  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 31th International Conference on Multimedia Modeling (MMM 2025)., pages 1–8. Springer, 2025
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 31th International Conference on Multimedia Modeling (MMM 2025)., pages 1–8. Springer, 2025.
+
+- `Conference` xDataDT: A Multi-Stakeholder Digital Twin Orchestrator for Smart and Sustainable Mobility Services.
+  <br/>
+  Do-Van Nguyen, **Wenbin Gan**, Sandanori Ito, and Koji Zettsu. In IEEE International Conference on Big Data (IEEE BigData 2025)., pages 1–10, 2025.
+  
+- `Conference` Eyes on the Road, AI on the Edge: A Field-Tested Multimodal System for Predicting and Explaining Near-Miss Accidents with Federated Learning.
+  <br/>
+  Minh-Son Dao, Thi-Mai-Phuong Nguyen, Khoa Tran, **Wenbin Gan**, Takamasa Mizoi, Sadanori Ito and Koji Zettsu. The 41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC), 2026.
+  
 - `Conference` [Drive-clip: Cross-modal contrastive safety-critical driving scenario representation learning and zero-shot driving risk analysis](https://doi.org/10.1007/978-3-031-53308-2_7). 
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 30th International Conference on Multimedia Modeling (MMM 2024), pages 1–12. Springer, 2024.
 
