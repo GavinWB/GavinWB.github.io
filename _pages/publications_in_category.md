@@ -128,7 +128,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 - `Conference` [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://doi.org/10.48550/arXiv.2506.205
 ).
   <br/>
-  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. Arxiv.
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. Arxiv, 2025.
   
 - `Conference` [Smart driving assistance with real-time risk assessment and personalized driving coaching to enhance road safety](https://doi.org/10.1007/978-981-96-2074-6_24).
     <br/>
@@ -143,6 +143,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
   Minh-Son Dao, Thi-Mai-Phuong Nguyen, Khoa Tran, **Wenbin Gan**, Takamasa Mizoi, Sadanori Ito and Koji Zettsu. The 41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC), 2026.
   
 - `Conference` [Drive-clip: Cross-modal contrastive safety-critical driving scenario representation learning and zero-shot driving risk analysis](https://doi.org/10.1007/978-3-031-53308-2_7). 
+  <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 30th International Conference on Multimedia Modeling (MMM 2024), pages 1–12. Springer, 2024.
 
 - `Conference` [Procedural driving skill coaching from more skilled drivers to safer drivers: A survey](https://dl.acm.org/doi/abs/10.1145/3592571.3592973)
