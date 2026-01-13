@@ -117,6 +117,9 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 
 ## 🎯 General Education (Adaptive Driver Coaching), Multimodal Big Data Analysis for Human Wellness
 
+- `Conference` Intelligent Tutoring in a Driving Simulator: Enhancing Driving Proficiency With AI-Driven Skill Assessment and Personalized Coaching Generation.
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. ACM Conference on Intelligent User Interfaces (ACM IUI 2026).
+
 - `Conference` [Simulated Insight, Real-World Impact: Enhancing Driving Safety with CARLA-Simulated Personalized Lessons and Eye-Tracking Risk Coaching](https://doi.org/10.1145/3716553.3757087).
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. 27th ACM International Conference on Multimodal Interaction (ICMI 2025).
 
