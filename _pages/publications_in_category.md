@@ -127,6 +127,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 
 - `Conference` [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://doi.org/10.48550/arXiv.2506.205
 ).
+  <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. Arxiv.
   
 - `Conference` [Smart driving assistance with real-time risk assessment and personalized driving coaching to enhance road safety](https://doi.org/10.1007/978-981-96-2074-6_24).
@@ -145,10 +146,12 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 30th International Conference on Multimedia Modeling (MMM 2024), pages 1–12. Springer, 2024.
 
 - `Conference` [Procedural driving skill coaching from more skilled drivers to safer drivers: A survey](https://dl.acm.org/doi/abs/10.1145/3592571.3592973)
+  <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In the 4th ACM Workshop on Intelligent Cross-Data Analysis and Retrieval (ICDAR), ACM International Conference on Multimedia Retrieval (ACM ICMR 2023), pages 10–18. ACM, 2023.
 
 
 - `Conference` [An open case-based reasoning framework for personalized on-board driving assistance in risk scenarios](https://ieeexplore.ieee.org/document/10020284). 
+  <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In IEEE International Conference on Big Data (IEEE BigData 2022), pages 1–8, 2022.
 
 - `Conference` [Monitoring and improving personalized sleep quality from long-term lifelogs](https://ieeexplore.ieee.org/document/10020829). 
