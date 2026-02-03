@@ -27,6 +27,9 @@ Research Interest
 - Digital Education, Multimodal Learning Analytics, Artificial Intelligence Enhanced Learning, Intelligent Tutoring Systems
 - Various Aspects of User Modeling for Personalized Services
 - Adaptive Human Behavioral Optimization and Support
+- Effective human-AI collaboration via AI systems (model, adapt and personalize to human users)
+- Application of user modeling and personalization to well-being
+- Human-centered computing
 
 
 Experiences
