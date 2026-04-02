@@ -11,7 +11,7 @@ redirect_from:
 <font color=red>[**Open for Cooperation**] If you are interested in cooperation in the field of Artificial Intelligence in Education, please freely contact me at <wbgan.cs@gmail.com>. </font>
 
 <br/>
-I am a researcher at Big Data Integration Research Center, National Institute of Information and Communications Technology [(NICT)](https://bdirc.nict.go.jp/en/), Tokyo, Japan.
+I am a Senior Researcher at Reality Intelligence Integration Laboratory, National Institute of Information and Communications Technology [(NICT)](https://bdirc.nict.go.jp/en/), Tokyo, Japan.
 
 I received a Ph.D. in Informatics from National Institute of Informatics [(NII)](https://www.nii.ac.jp/en/), The Graduate University for Advanced Studies (SOKENDAI) and a second Ph.D. in Educational Technology from Central China Normal University [(CCNU)](http://foaie.ccnu.edu.cn/Home/index.htm). Before joining NICT, I was an JSPS research fellow at National Institute of Informatics and a postdoctoral fellow at Central China Normal University Wollongong Joint Institute [(CCNU-UOW)](http://uowji.ccnu.edu.cn/en/Home.htm).
 
