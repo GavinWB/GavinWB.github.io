@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 Journals in AI & Education & HCI
 ======
 * [Top Journals in Educational Technology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=soc_educationaltechnology){:target="_blank"}
