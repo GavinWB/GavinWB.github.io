@@ -41,6 +41,6 @@ Tools
 ======
 * [CORE rankings](https://portal.core.edu.au/conf-ranks/){:target="_blank"}
 * [CCF Deadline](https://ccfddl.com/){:target="_blank"}
-* [SIGCHI All Conferences Programs](https://programs.sigchi.org/)
+* [SIGCHI All Conferences Programs](https://programs.sigchi.org/){:target="_blank"}
 * [Searching Journal Information & Metrics in JCR](https://jcr.clarivate.com/jcr/){:target="_blank"}
 
