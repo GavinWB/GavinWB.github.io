@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+Tools
+======
+* [CORE rankings](https://portal.core.edu.au/conf-ranks/){:target="_blank"}
+* [CCF Deadline](https://ccfddl.com/){:target="_blank"}
+* [SIGCHI All Conferences Programs](https://programs.sigchi.org/){:target="_blank"}
+* [Searching Journal Information & Metrics in JCR](https://jcr.clarivate.com/jcr/){:target="_blank"}
+
 Journals in AI & Education & HCI
 ======
 * [Top Journals in Educational Technology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=soc_educationaltechnology){:target="_blank"}
@@ -36,11 +43,4 @@ International Conferences in Educational Technology
 * [European Conference on Technology-Enhanced Learning (EC-TEL)](https://ea-tel.eu/ec-tel-conference){:target="_blank"}
 * [ISLS Annual Meeting](https://www.isls.org/annual-meeting/){:target="_blank"}
 * [International Conference on Computers in Education (ICCE)](https://www.apsce.net/conferences){:target="_blank"}
-
-Tools
-======
-* [CORE rankings](https://portal.core.edu.au/conf-ranks/){:target="_blank"}
-* [CCF Deadline](https://ccfddl.com/){:target="_blank"}
-* [SIGCHI All Conferences Programs](https://programs.sigchi.org/){:target="_blank"}
-* [Searching Journal Information & Metrics in JCR](https://jcr.clarivate.com/jcr/){:target="_blank"}
 
