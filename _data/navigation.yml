@@ -16,6 +16,9 @@ main:
  
   - title: "Award"
     url: /award-honor/
+  
+  - title: "Resource"
+     url: /resource/
      
     
 #   - title: "Portfolio"
