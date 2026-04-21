@@ -125,10 +125,10 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
     <br/>
     **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. 27th ACM International Conference on Multimodal Interaction (ICMI 2025).
 
-- `Conference` [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://doi.org/10.48550/arXiv.2506.205
+- `Journal` [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://doi.org/10.48550/arXiv.2506.205
 ).
   <br/>
-  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. Arxiv, 2025.
+  **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. Safety Science, 2026, DOI:[10.1016/j.ssci.2026.107234](https://doi.org/10.1016/j.ssci.2026.107234).
   
 - `Conference` [Smart driving assistance with real-time risk assessment and personalized driving coaching to enhance road safety](https://doi.org/10.1007/978-981-96-2074-6_24).
     <br/>
