@@ -43,4 +43,5 @@ International Conferences in Educational Technology
 * [European Conference on Technology-Enhanced Learning (EC-TEL)](https://ea-tel.eu/ec-tel-conference){:target="_blank"}
 * [ISLS Annual Meeting](https://www.isls.org/annual-meeting/){:target="_blank"}
 * [International Conference on Computers in Education (ICCE)](https://www.apsce.net/conferences){:target="_blank"}
+* [IMPS-the annual International Meeting of the Psychometric Society](https://www.psychometricsociety.org/annual-meeting)
 
