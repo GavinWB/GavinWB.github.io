@@ -138,7 +138,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
   <br/>
   Do-Van Nguyen, **Wenbin Gan**, Sandanori Ito, and Koji Zettsu. In IEEE International Conference on Big Data (IEEE BigData 2025)., pages 1–10, 2025.
   
-- `Conference` Eyes on the Road, AI on the Edge: A Field-Tested Multimodal System for Predicting and Explaining Near-Miss Accidents with Federated Learning.
+- `Conference` [Eyes on the Road, AI on the Edge: A Field-Tested Multimodal System for Predicting and Explaining Near-Miss Accidents with Federated Learning](https://doi.org/10.1145/3748522.3779902).
   <br/>
   Minh-Son Dao, Thi-Mai-Phuong Nguyen, Khoa Tran, **Wenbin Gan**, Takamasa Mizoi, Sadanori Ito and Koji Zettsu. The 41st ACM/SIGAPP Symposium On Applied Computing (ACM SAC), 2026.
   
