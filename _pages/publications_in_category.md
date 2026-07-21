@@ -134,7 +134,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
     <br/>
   **Wenbin Gan**, Dao Minh-Son, and Zettsu Koji. In 31th International Conference on Multimedia Modeling (MMM 2025)., pages 1–8. Springer, 2025.
 
-- `Conference` xDataDT: A Multi-Stakeholder Digital Twin Orchestrator for Smart and Sustainable Mobility Services.
+- `Conference` [xDataDT: A Multi-Stakeholder Digital Twin Orchestrator for Smart and Sustainable Mobility Services](https://www.researchgate.net/publication/405372861_xDataDT_A_Multi-Stakeholder_Digital_Twin_Orchestrator_for_Smart_and_Sustainable_Mobility_Services).
   <br/>
   Do-Van Nguyen, **Wenbin Gan**, Sandanori Ito, and Koji Zettsu. In IEEE International Conference on Big Data (IEEE BigData 2025)., pages 1–10, 2025.
   
