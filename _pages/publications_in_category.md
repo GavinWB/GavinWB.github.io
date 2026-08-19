@@ -94,6 +94,18 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 
 
 ## 🧑🏻‍💻 Intelligent Tutoring Systems
+- `Conference` [From Evaluation to Improvement: Multi-Agent Pedagogical Feedback of LLM-based Tutor to Improve Student Learning in Dialogues].
+  <br/>
+  Sebastián A. Burgos-Martínez, **Wenbin Gan**, Yuan Sun. In The Pacific Rim International Conference on Artificial Intelligence (PRICAI'26), pages 1–16, 2026.
+- `Conference` [Towards Reducing Foreign Language Anxiety Using Level-Appropriate Embodied Conversational Agents](https://library.iated.org/view/RAJARATNAM2026TOW?re=downloadnotallowed).
+  <br/>
+  Krishan Rajaratnam, **Wenbin Gan**, Yuan Sun. In 18th International Conference on Education and New Learning Technologies (EDULEARN'26), pages 1–8, 2026.
+- `Conference` [Towards Reducing Foreign Language Anxiety Using Level-Appropriate Embodied Conversational Agents](https://arxiv.org/pdf/2607.21887).
+  <br/>
+  Krishan Rajaratnam, **Wenbin Gan**, Yuan Sun. In arXiv preprint, arXiv:2607.21887, pages 1–8, 2026.
+- `Conference` [Simply Put: Can LLM agents better reduce foreign language anxiety when using less complex language?].
+  <br/>
+  Krishan Rajaratnam, **Wenbin Gan**, Yuan Sun. In The 48th Japan Society for Educational Technology (JSET), 2026.
 
 - `Conference` [Integrating educational assessment and generative AI for personalized knowledge building: An exploratory study](https://ieeexplore.ieee.org/document/10960029).
   <br/>
@@ -115,7 +127,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
   <br/>
   Xian Peng, Sanya Liu, Zhi Liu, **Wenbin Gan**, and Jianwen Sun. International Journal of Innovative Computing, Information and Control, volume 12, pages 2099–2110, 2016.
 
-## 🎯 General Education (Adaptive Driver Coaching), Multimodal Big Data Analysis for Human Wellness
+## 🎯 General Education (Adaptive Driver Coaching), Human-AI Cooperation for Decision-making Support
 
 - `Conference` [Intelligent Tutoring in a Driving Simulator: Enhancing Driving Proficiency With AI-Driven Skill Assessment and Personalized Coaching Generation](https://doi.org/10.1145/3742413.3789060).
    <br/>
