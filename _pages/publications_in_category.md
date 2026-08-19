@@ -103,7 +103,7 @@ The full publication list in [Google Scholar](https://scholar.google.com/citatio
 - `Conference` [Towards Reducing Foreign Language Anxiety Using Level-Appropriate Embodied Conversational Agents](https://arxiv.org/pdf/2607.21887).
   <br/>
   Krishan Rajaratnam, **Wenbin Gan**, Yuan Sun. In arXiv preprint, arXiv:2607.21887, pages 1–8, 2026.
-- `Conference` [Simply Put: Can LLM agents better reduce foreign language anxiety when using less complex language?].
+- `Conference` Simply Put: Can LLM agents better reduce foreign language anxiety when using less complex language?.
   <br/>
   Krishan Rajaratnam, **Wenbin Gan**, Yuan Sun. In The 48th Japan Society for Educational Technology (JSET), 2026.
 
